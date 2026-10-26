@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="280" viewBox="0 0 700 280">
+<style>text{font-family:Arial,sans-serif;fill:#1f2937}.label{font-size:12px}.title{font-size:18px;font-weight:bold}</style>
+<text x="350.0" y="24" text-anchor="middle" class="title">Revenue by Category</text>
+<line x1="80" y1="210" x2="640" y2="210" stroke="#374151" stroke-width="1"/>
+<line x1="80" y1="40" x2="80" y2="210" stroke="#374151" stroke-width="1"/>
+<rect x="88.0" y="50.0" width="104.0" height="160.0" fill="#f59e0b" rx="4"/>
+<text x="140.0" y="228" text-anchor="middle" class="label">Sports</text>
+<text x="140.0" y="42.0" text-anchor="middle" class="label">$415,816.24</text>
+<rect x="200.0" y="73.36053445146888" width="104.0" height="136.63946554853112" fill="#f59e0b" rx="4"/>
+<text x="252.0" y="228" text-anchor="middle" class="label">Beauty</text>
+<text x="252.0" y="65.36053445146888" text-anchor="middle" class="label">$355,105.68</text>
+<rect x="312.0" y="95.27427596382574" width="104.0" height="114.72572403617426" fill="#f59e0b" rx="4"/>
+<text x="364.0" y="228" text-anchor="middle" class="label">Electronics</text>
+<text x="364.0" y="87.27427596382574" text-anchor="middle" class="label">$298,155.12</text>
+<rect x="424.0" y="97.13109233059305" width="104.0" height="112.86890766940695" fill="#f59e0b" rx="4"/>
+<text x="476.0" y="228" text-anchor="middle" class="label">Home & Kitchen</text>
+<text x="476.0" y="89.13109233059305" text-anchor="middle" class="label">$293,329.53</text>
+<rect x="536.0" y="146.40907916439255" width="104.0" height="63.590920835607456" fill="#f59e0b" rx="4"/>
+<text x="588.0" y="228" text-anchor="middle" class="label">Clothing</text>
+<text x="588.0" y="138.40907916439255" text-anchor="middle" class="label">$165,263.36</text>
+</svg>

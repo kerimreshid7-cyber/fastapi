@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="280" viewBox="0 0 700 280">
+<style>text{font-family:Arial,sans-serif;fill:#1f2937}.label{font-size:12px}.title{font-size:18px;font-weight:bold}</style>
+<text x="350.0" y="24" text-anchor="middle" class="title">Revenue by Acquisition Channel</text>
+<line x1="80" y1="210" x2="640" y2="210" stroke="#374151" stroke-width="1"/>
+<line x1="80" y1="40" x2="80" y2="210" stroke="#374151" stroke-width="1"/>
+<rect x="88.0" y="50.0" width="85.33333333333333" height="160.0" fill="#10b981" rx="4"/>
+<text x="130.66666666666666" y="228" text-anchor="middle" class="label">organic</text>
+<text x="130.66666666666666" y="42.0" text-anchor="middle" class="label">$506,545.85</text>
+<rect x="181.33333333333331" y="87.07209998857975" width="85.33333333333333" height="122.92790001142025" fill="#10b981" rx="4"/>
+<text x="223.99999999999997" y="228" text-anchor="middle" class="label">paid_search</text>
+<text x="223.99999999999997" y="79.07209998857975" text-anchor="middle" class="label">$389,178.86</text>
+<rect x="274.66666666666663" y="106.70094898615835" width="85.33333333333333" height="103.29905101384165" fill="#10b981" rx="4"/>
+<text x="317.3333333333333" y="228" text-anchor="middle" class="label">social</text>
+<text x="317.3333333333333" y="98.70094898615835" text-anchor="middle" class="label">$327,035.66</text>
+<rect x="368.0" y="125.83323641877641" width="85.33333333333333" height="84.16676358122359" fill="#10b981" rx="4"/>
+<text x="410.6666666666667" y="228" text-anchor="middle" class="label">email</text>
+<text x="410.6666666666667" y="117.83323641877641" text-anchor="middle" class="label">$266,464.53</text>
+<rect x="461.3333333333333" y="139.7208732437549" width="85.33333333333333" height="70.27912675624509" fill="#10b981" rx="4"/>
+<text x="504.0" y="228" text-anchor="middle" class="label">referral</text>
+<text x="504.0" y="131.7208732437549" text-anchor="middle" class="label">$222,497.50</text>
+<rect x="554.6666666666666" y="150.60274701687922" width="85.33333333333333" height="59.397252983120794" fill="#10b981" rx="4"/>
+<text x="597.3333333333333" y="228" text-anchor="middle" class="label">marketplace</text>
+<text x="597.3333333333333" y="142.60274701687922" text-anchor="middle" class="label">$188,046.45</text>
+</svg>

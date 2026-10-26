@@ -1,0 +1,1501 @@
+customer_id,signup_date,country,region,city,acquisition_channel,customer_segment
+C00001,2022-12-28,Australia,New South Wales,Sydney,email,new
+C00002,2023-01-28,United States,California,Los Angeles,social,returning
+C00003,2025-09-02,Germany,Berlin,Berlin,social,new
+C00004,2025-08-26,United Kingdom,Scotland,Edinburgh,social,vip
+C00005,2024-10-26,Canada,Quebec,Montreal,organic,new
+C00006,2024-09-23,Canada,Quebec,Montreal,social,returning
+C00007,2024-01-26,United States,Washington,Seattle,paid_search,new
+C00008,2024-05-08,United States,California,Los Angeles,referral,new
+C00009,2024-10-26,United States,Washington,Seattle,organic,new
+C00010,2024-01-24,United States,New York,New York,organic,returning
+C00011,2023-09-30,United Kingdom,Scotland,Edinburgh,marketplace,new
+C00012,2024-04-05,United States,California,Los Angeles,organic,new
+C00013,2025-02-22,Australia,Victoria,Melbourne,organic,new
+C00014,2023-01-16,United Kingdom,England,London,paid_search,returning
+C00015,2023-05-16,Germany,Berlin,Berlin,marketplace,new
+C00016,2024-04-19,United States,California,Los Angeles,organic,returning
+C00017,2024-12-06,France,Ile-de-France,Paris,organic,new
+C00018,2024-12-06,Germany,Berlin,Berlin,organic,new
+C00019,2025-02-25,Canada,Quebec,Montreal,organic,new
+C00020,2025-09-19,United States,Texas,Austin,organic,new
+C00021,2025-11-02,United States,Texas,Austin,email,new
+C00022,2024-04-25,France,Ile-de-France,Paris,marketplace,returning
+C00023,2022-09-14,United States,Washington,Seattle,referral,returning
+C00024,2022-10-11,France,Ile-de-France,Paris,marketplace,new
+C00025,2025-02-24,Australia,Victoria,Melbourne,paid_search,new
+C00026,2024-08-23,United Kingdom,Scotland,Edinburgh,organic,new
+C00027,2024-07-10,Germany,Berlin,Berlin,paid_search,returning
+C00028,2024-02-24,United States,Washington,Seattle,paid_search,returning
+C00029,2023-07-28,Australia,Victoria,Melbourne,social,returning
+C00030,2023-02-16,United States,New York,New York,email,new
+C00031,2025-02-15,United Kingdom,Scotland,Edinburgh,email,new
+C00032,2022-05-30,Germany,Berlin,Berlin,organic,new
+C00033,2022-01-08,France,Ile-de-France,Paris,email,returning
+C00034,2022-07-08,United Kingdom,England,London,organic,new
+C00035,2022-08-07,Canada,Quebec,Montreal,paid_search,new
+C00036,2022-07-24,Germany,Berlin,Berlin,email,vip
+C00037,2022-07-25,United Kingdom,England,London,organic,new
+C00038,2024-05-13,United States,California,Los Angeles,social,returning
+C00039,2025-01-28,United Kingdom,England,London,paid_search,new
+C00040,2024-12-10,Canada,Ontario,Toronto,email,new
+C00041,2023-05-27,Canada,Ontario,Toronto,referral,new
+C00042,2024-01-20,Canada,Quebec,Montreal,paid_search,returning
+C00043,2022-11-01,Germany,Berlin,Berlin,organic,new
+C00044,2025-05-21,Australia,Victoria,Melbourne,paid_search,returning
+C00045,2025-08-09,Germany,Berlin,Berlin,social,new
+C00046,2022-11-26,United States,California,Los Angeles,organic,returning
+C00047,2025-09-21,United States,California,Los Angeles,paid_search,returning
+C00048,2025-10-18,United States,Illinois,Chicago,organic,vip
+C00049,2022-01-22,Canada,Ontario,Toronto,organic,new
+C00050,2023-09-17,United States,Washington,Seattle,organic,new
+C00051,2022-02-24,United States,Illinois,Chicago,marketplace,returning
+C00052,2025-03-17,Canada,Ontario,Toronto,referral,vip
+C00053,2025-07-23,Australia,Victoria,Melbourne,social,new
+C00054,2024-11-23,United States,California,Los Angeles,organic,new
+C00055,2025-04-08,United States,California,Los Angeles,social,vip
+C00056,2025-11-26,United States,California,Los Angeles,email,returning
+C00057,2024-11-25,United States,Illinois,Chicago,organic,vip
+C00058,2025-02-25,Germany,Berlin,Berlin,marketplace,returning
+C00059,2023-12-28,United States,Washington,Seattle,organic,new
+C00060,2024-11-18,United States,Washington,Seattle,paid_search,returning
+C00061,2022-09-25,United States,Texas,Austin,organic,returning
+C00062,2024-05-25,United Kingdom,England,London,organic,returning
+C00063,2025-06-06,United Kingdom,Scotland,Edinburgh,social,new
+C00064,2025-03-26,France,Ile-de-France,Paris,organic,returning
+C00065,2025-09-29,United Kingdom,Scotland,Edinburgh,organic,new
+C00066,2023-12-05,Canada,Ontario,Toronto,referral,new
+C00067,2023-01-22,France,Ile-de-France,Paris,social,new
+C00068,2025-02-24,United States,Washington,Seattle,paid_search,new
+C00069,2022-08-17,United States,Illinois,Chicago,paid_search,new
+C00070,2025-07-06,United States,Washington,Seattle,organic,new
+C00071,2024-12-19,France,Ile-de-France,Paris,social,returning
+C00072,2023-09-14,United States,Texas,Austin,referral,returning
+C00073,2022-09-04,United States,Washington,Seattle,social,new
+C00074,2025-06-08,Canada,Ontario,Toronto,paid_search,returning
+C00075,2025-01-25,United States,New York,New York,organic,returning
+C00076,2024-05-26,Australia,New South Wales,Sydney,referral,new
+C00077,2025-07-09,United States,Illinois,Chicago,organic,new
+C00078,2024-06-29,United States,Washington,Seattle,paid_search,new
+C00079,2022-10-10,Australia,Victoria,Melbourne,paid_search,vip
+C00080,2025-04-29,United Kingdom,England,London,email,new
+C00081,2024-08-10,United Kingdom,Scotland,Edinburgh,organic,new
+C00082,2022-01-03,Canada,Ontario,Toronto,organic,returning
+C00083,2023-12-14,United Kingdom,Scotland,Edinburgh,email,returning
+C00084,2024-09-25,United Kingdom,England,London,email,new
+C00085,2022-11-22,Germany,Berlin,Berlin,organic,returning
+C00086,2023-06-17,United States,Texas,Austin,email,new
+C00087,2023-08-23,United States,Texas,Austin,organic,new
+C00088,2022-05-09,United States,Washington,Seattle,paid_search,new
+C00089,2024-01-27,United States,Illinois,Chicago,paid_search,new
+C00090,2025-01-13,Australia,New South Wales,Sydney,organic,returning
+C00091,2025-08-23,Australia,New South Wales,Sydney,referral,returning
+C00092,2023-04-21,United Kingdom,England,London,paid_search,returning
+C00093,2023-11-05,United States,Texas,Austin,email,returning
+C00094,2022-12-27,United States,New York,New York,organic,new
+C00095,2023-07-15,United Kingdom,Scotland,Edinburgh,paid_search,new
+C00096,2024-07-25,United States,California,Los Angeles,marketplace,new
+C00097,2023-05-17,United States,California,Los Angeles,organic,new
+C00098,2022-12-08,United Kingdom,England,London,paid_search,vip
+C00099,2025-04-18,United Kingdom,England,London,referral,new
+C00100,2022-05-05,United States,Illinois,Chicago,paid_search,new
+C00101,2024-12-07,United Kingdom,England,London,organic,new
+C00102,2023-09-13,Australia,Victoria,Melbourne,paid_search,vip
+C00103,2025-11-17,France,Ile-de-France,Paris,marketplace,new
+C00104,2024-05-25,United States,New York,New York,social,new
+C00105,2025-04-09,United States,New York,New York,marketplace,new
+C00106,2025-08-14,United Kingdom,Scotland,Edinburgh,marketplace,new
+C00107,2023-01-17,United States,Washington,Seattle,marketplace,returning
+C00108,2022-03-08,Australia,Victoria,Melbourne,marketplace,returning
+C00109,2024-07-03,United States,Illinois,Chicago,paid_search,new
+C00110,2022-01-21,Canada,Ontario,Toronto,paid_search,returning
+C00111,2024-08-17,United Kingdom,England,London,organic,new
+C00112,2025-08-01,United Kingdom,Scotland,Edinburgh,paid_search,returning
+C00113,2022-01-28,United States,Illinois,Chicago,email,returning
+C00114,2023-08-09,United States,Illinois,Chicago,paid_search,new
+C00115,2025-11-23,Australia,Victoria,Melbourne,organic,returning
+C00116,2025-08-04,United Kingdom,England,London,email,new
+C00117,2025-06-23,France,Ile-de-France,Paris,organic,new
+C00118,2024-08-25,United Kingdom,Scotland,Edinburgh,organic,new
+C00119,2023-09-19,Canada,Quebec,Montreal,organic,new
+C00120,2024-05-04,Australia,Victoria,Melbourne,organic,new
+C00121,2023-12-31,Australia,New South Wales,Sydney,marketplace,vip
+C00122,2023-11-05,Canada,Ontario,Toronto,social,returning
+C00123,2025-02-16,United States,Texas,Austin,referral,new
+C00124,2023-12-12,France,Ile-de-France,Paris,organic,returning
+C00125,2022-07-02,United States,Texas,Austin,paid_search,new
+C00126,2024-09-13,United States,California,Los Angeles,paid_search,returning
+C00127,2023-07-07,United States,New York,New York,organic,new
+C00128,2022-09-28,Australia,Victoria,Melbourne,referral,new
+C00129,2022-12-13,United States,Washington,Seattle,organic,new
+C00130,2024-06-16,United Kingdom,England,London,organic,new
+C00131,2024-10-26,United States,Illinois,Chicago,paid_search,new
+C00132,2023-07-25,Australia,Victoria,Melbourne,paid_search,returning
+C00133,2025-10-12,United States,New York,New York,social,returning
+C00134,2024-08-20,United States,Texas,Austin,organic,new
+C00135,2024-05-02,United States,Texas,Austin,paid_search,new
+C00136,2024-08-12,Australia,New South Wales,Sydney,referral,new
+C00137,2024-05-08,Canada,Ontario,Toronto,social,new
+C00138,2025-09-26,United Kingdom,Scotland,Edinburgh,organic,new
+C00139,2025-09-14,France,Ile-de-France,Paris,marketplace,vip
+C00140,2025-11-25,France,Ile-de-France,Paris,organic,new
+C00141,2022-02-12,United States,Illinois,Chicago,paid_search,new
+C00142,2024-01-01,United Kingdom,Scotland,Edinburgh,referral,returning
+C00143,2024-06-17,Australia,Victoria,Melbourne,email,new
+C00144,2025-05-12,United States,Texas,Austin,organic,vip
+C00145,2023-08-30,United Kingdom,Scotland,Edinburgh,paid_search,returning
+C00146,2022-09-15,United States,Washington,Seattle,marketplace,new
+C00147,2024-05-09,United Kingdom,Scotland,Edinburgh,paid_search,new
+C00148,2025-09-18,Australia,Victoria,Melbourne,paid_search,new
+C00149,2024-07-14,Germany,Berlin,Berlin,social,new
+C00150,2024-08-18,United States,New York,New York,paid_search,new
+C00151,2024-10-25,France,Ile-de-France,Paris,email,new
+C00152,2022-10-07,United States,New York,New York,paid_search,returning
+C00153,2025-07-03,United States,New York,New York,referral,new
+C00154,2022-03-20,United States,Washington,Seattle,referral,new
+C00155,2023-03-25,United States,Illinois,Chicago,social,returning
+C00156,2022-04-07,France,Ile-de-France,Paris,social,new
+C00157,2022-11-27,United Kingdom,England,London,organic,new
+C00158,2023-06-02,Canada,Quebec,Montreal,social,new
+C00159,2023-05-22,United Kingdom,Scotland,Edinburgh,paid_search,new
+C00160,2024-04-15,United Kingdom,Scotland,Edinburgh,organic,returning
+C00161,2025-09-04,United Kingdom,England,London,organic,returning
+C00162,2025-06-12,Germany,Berlin,Berlin,email,returning
+C00163,2023-06-23,United Kingdom,Scotland,Edinburgh,organic,returning
+C00164,2025-03-27,Germany,Berlin,Berlin,organic,returning
+C00165,2022-04-11,United States,New York,New York,social,new
+C00166,2025-04-06,Canada,Ontario,Toronto,organic,returning
+C00167,2022-08-28,France,Ile-de-France,Paris,paid_search,returning
+C00168,2024-05-14,United States,Texas,Austin,email,new
+C00169,2022-06-09,United Kingdom,England,London,organic,vip
+C00170,2023-12-17,United States,Washington,Seattle,organic,new
+C00171,2025-09-30,Canada,Ontario,Toronto,organic,new
+C00172,2023-08-07,United States,California,Los Angeles,paid_search,returning
+C00173,2023-05-20,Canada,Ontario,Toronto,social,returning
+C00174,2024-03-05,Canada,Ontario,Toronto,social,returning
+C00175,2022-11-07,Germany,Berlin,Berlin,social,new
+C00176,2025-02-14,United States,New York,New York,organic,new
+C00177,2022-06-14,United States,New York,New York,social,new
+C00178,2024-03-01,Canada,Ontario,Toronto,organic,returning
+C00179,2024-01-22,United Kingdom,England,London,email,returning
+C00180,2023-04-24,France,Ile-de-France,Paris,marketplace,new
+C00181,2024-08-11,Australia,Victoria,Melbourne,paid_search,new
+C00182,2024-07-31,Canada,Ontario,Toronto,paid_search,returning
+C00183,2023-04-01,United States,New York,New York,paid_search,returning
+C00184,2024-11-16,Germany,Berlin,Berlin,social,new
+C00185,2022-12-10,Canada,Ontario,Toronto,email,vip
+C00186,2023-05-16,Canada,Quebec,Montreal,organic,returning
+C00187,2024-09-04,United States,Texas,Austin,paid_search,new
+C00188,2022-09-26,United States,New York,New York,organic,new
+C00189,2023-11-05,United Kingdom,Scotland,Edinburgh,paid_search,new
+C00190,2024-07-05,Australia,New South Wales,Sydney,email,returning
+C00191,2025-04-17,United States,Washington,Seattle,referral,vip
+C00192,2023-05-07,Australia,New South Wales,Sydney,social,returning
+C00193,2024-07-13,United Kingdom,England,London,social,new
+C00194,2022-11-01,United States,Illinois,Chicago,paid_search,new
+C00195,2024-02-21,United States,Illinois,Chicago,marketplace,returning
+C00196,2025-04-28,Canada,Quebec,Montreal,marketplace,new
+C00197,2024-03-10,Australia,Victoria,Melbourne,organic,new
+C00198,2024-08-28,United States,Illinois,Chicago,paid_search,new
+C00199,2025-10-24,Germany,Berlin,Berlin,paid_search,new
+C00200,2024-12-09,United States,Illinois,Chicago,social,new
+C00201,2022-05-31,Germany,Berlin,Berlin,paid_search,new
+C00202,2023-04-01,United States,Washington,Seattle,paid_search,new
+C00203,2024-07-31,Germany,Berlin,Berlin,email,new
+C00204,2025-06-18,Australia,New South Wales,Sydney,social,returning
+C00205,2025-04-24,Australia,Victoria,Melbourne,referral,returning
+C00206,2024-07-22,Canada,Quebec,Montreal,referral,new
+C00207,2022-06-21,United States,Washington,Seattle,email,vip
+C00208,2022-09-08,Germany,Berlin,Berlin,paid_search,new
+C00209,2022-04-30,Germany,Berlin,Berlin,organic,new
+C00210,2023-08-08,United Kingdom,Scotland,Edinburgh,organic,returning
+C00211,2025-10-07,Australia,New South Wales,Sydney,social,new
+C00212,2022-03-21,Australia,New South Wales,Sydney,marketplace,new
+C00213,2023-09-23,United Kingdom,Scotland,Edinburgh,organic,new
+C00214,2024-08-26,Germany,Berlin,Berlin,organic,new
+C00215,2025-01-16,United States,Illinois,Chicago,organic,returning
+C00216,2024-12-22,Australia,Victoria,Melbourne,marketplace,returning
+C00217,2022-12-02,United States,Washington,Seattle,paid_search,returning
+C00218,2024-01-19,United States,Texas,Austin,social,returning
+C00219,2024-03-26,United States,Texas,Austin,social,returning
+C00220,2024-04-25,United States,California,Los Angeles,paid_search,new
+C00221,2024-03-31,United States,California,Los Angeles,paid_search,returning
+C00222,2022-11-04,United States,Illinois,Chicago,marketplace,returning
+C00223,2022-11-08,United States,New York,New York,email,returning
+C00224,2025-10-25,United States,Texas,Austin,paid_search,new
+C00225,2025-09-27,France,Ile-de-France,Paris,email,new
+C00226,2022-01-18,United States,Washington,Seattle,paid_search,new
+C00227,2025-10-06,Canada,Ontario,Toronto,organic,new
+C00228,2024-06-19,United States,New York,New York,paid_search,returning
+C00229,2024-06-11,Canada,Ontario,Toronto,paid_search,returning
+C00230,2023-08-13,United States,New York,New York,email,returning
+C00231,2022-10-12,United States,California,Los Angeles,paid_search,returning
+C00232,2025-09-06,United Kingdom,England,London,organic,new
+C00233,2023-03-20,France,Ile-de-France,Paris,paid_search,new
+C00234,2025-03-29,Canada,Quebec,Montreal,social,vip
+C00235,2025-06-05,France,Ile-de-France,Paris,paid_search,new
+C00236,2024-10-11,Canada,Quebec,Montreal,email,new
+C00237,2022-09-03,Canada,Quebec,Montreal,social,new
+C00238,2023-03-22,United States,California,Los Angeles,paid_search,new
+C00239,2022-10-13,United States,Texas,Austin,social,returning
+C00240,2023-09-16,United States,California,Los Angeles,organic,returning
+C00241,2023-06-03,Australia,New South Wales,Sydney,email,new
+C00242,2022-07-03,United States,California,Los Angeles,paid_search,new
+C00243,2025-05-06,United States,Illinois,Chicago,organic,new
+C00244,2023-12-21,United States,California,Los Angeles,organic,new
+C00245,2025-08-09,United States,Texas,Austin,social,new
+C00246,2023-02-16,France,Ile-de-France,Paris,paid_search,new
+C00247,2022-03-04,Canada,Ontario,Toronto,social,new
+C00248,2024-12-10,Germany,Berlin,Berlin,email,new
+C00249,2025-09-12,United States,New York,New York,paid_search,new
+C00250,2023-05-26,United States,Washington,Seattle,email,new
+C00251,2023-05-16,United States,Illinois,Chicago,organic,new
+C00252,2023-10-09,Canada,Quebec,Montreal,marketplace,new
+C00253,2025-02-08,Germany,Berlin,Berlin,paid_search,returning
+C00254,2023-05-12,United States,Washington,Seattle,organic,new
+C00255,2024-05-11,France,Ile-de-France,Paris,email,new
+C00256,2023-11-05,United States,Washington,Seattle,referral,new
+C00257,2023-06-27,United States,Illinois,Chicago,organic,new
+C00258,2022-01-02,Australia,Victoria,Melbourne,email,returning
+C00259,2025-04-10,Germany,Berlin,Berlin,email,new
+C00260,2023-06-18,United States,Illinois,Chicago,paid_search,returning
+C00261,2022-02-25,United States,New York,New York,social,returning
+C00262,2025-04-15,United States,New York,New York,marketplace,new
+C00263,2022-12-16,Australia,New South Wales,Sydney,organic,vip
+C00264,2025-02-07,United States,California,Los Angeles,marketplace,returning
+C00265,2024-01-04,Australia,New South Wales,Sydney,marketplace,returning
+C00266,2022-01-09,France,Ile-de-France,Paris,organic,new
+C00267,2024-12-10,United Kingdom,England,London,social,new
+C00268,2023-08-26,United States,California,Los Angeles,social,new
+C00269,2024-05-19,Australia,New South Wales,Sydney,organic,new
+C00270,2022-12-13,United States,Washington,Seattle,email,returning
+C00271,2023-06-11,France,Ile-de-France,Paris,organic,new
+C00272,2024-09-04,France,Ile-de-France,Paris,organic,new
+C00273,2024-03-15,United States,Texas,Austin,paid_search,returning
+C00274,2022-12-02,United States,New York,New York,email,new
+C00275,2023-08-14,Canada,Ontario,Toronto,organic,new
+C00276,2023-04-12,United Kingdom,Scotland,Edinburgh,email,new
+C00277,2024-06-27,United Kingdom,England,London,referral,new
+C00278,2023-09-17,United States,Illinois,Chicago,marketplace,returning
+C00279,2022-07-08,France,Ile-de-France,Paris,social,vip
+C00280,2022-02-01,United Kingdom,Scotland,Edinburgh,social,new
+C00281,2024-07-19,United Kingdom,Scotland,Edinburgh,email,returning
+C00282,2023-03-22,France,Ile-de-France,Paris,email,new
+C00283,2022-10-13,United States,Washington,Seattle,paid_search,returning
+C00284,2022-11-12,Canada,Ontario,Toronto,marketplace,vip
+C00285,2024-10-01,United States,Texas,Austin,paid_search,new
+C00286,2023-08-18,United States,New York,New York,paid_search,new
+C00287,2023-07-21,United Kingdom,Scotland,Edinburgh,organic,new
+C00288,2024-04-22,Canada,Quebec,Montreal,marketplace,new
+C00289,2023-06-24,United States,Illinois,Chicago,referral,new
+C00290,2024-03-24,United States,Texas,Austin,email,new
+C00291,2023-05-19,Canada,Quebec,Montreal,referral,new
+C00292,2024-07-10,United States,Washington,Seattle,paid_search,vip
+C00293,2023-12-02,Canada,Ontario,Toronto,social,returning
+C00294,2022-10-13,United States,Texas,Austin,social,returning
+C00295,2022-12-03,United Kingdom,England,London,email,new
+C00296,2024-12-30,France,Ile-de-France,Paris,social,new
+C00297,2025-02-27,Canada,Quebec,Montreal,organic,new
+C00298,2025-04-06,United States,Texas,Austin,organic,new
+C00299,2024-09-22,France,Ile-de-France,Paris,social,returning
+C00300,2022-05-03,United Kingdom,Scotland,Edinburgh,paid_search,new
+C00301,2024-03-04,United Kingdom,England,London,organic,vip
+C00302,2022-01-23,United States,Washington,Seattle,organic,new
+C00303,2022-01-09,Canada,Quebec,Montreal,organic,new
+C00304,2024-08-19,United States,New York,New York,organic,new
+C00305,2022-07-01,Canada,Ontario,Toronto,organic,new
+C00306,2024-06-07,United States,California,Los Angeles,paid_search,new
+C00307,2024-07-02,United States,California,Los Angeles,marketplace,returning
+C00308,2023-08-19,Australia,Victoria,Melbourne,referral,returning
+C00309,2025-10-05,United States,Washington,Seattle,email,new
+C00310,2025-04-24,Australia,New South Wales,Sydney,referral,returning
+C00311,2025-06-21,Germany,Berlin,Berlin,organic,new
+C00312,2022-01-21,Canada,Quebec,Montreal,social,new
+C00313,2022-07-06,United Kingdom,England,London,referral,vip
+C00314,2024-07-28,Canada,Quebec,Montreal,social,vip
+C00315,2025-07-01,France,Ile-de-France,Paris,paid_search,returning
+C00316,2023-11-26,Canada,Ontario,Toronto,organic,returning
+C00317,2024-08-15,Australia,Victoria,Melbourne,organic,new
+C00318,2023-01-02,United States,Texas,Austin,paid_search,new
+C00319,2022-01-10,United States,Texas,Austin,paid_search,new
+C00320,2022-09-10,Germany,Berlin,Berlin,organic,returning
+C00321,2024-04-28,United Kingdom,Scotland,Edinburgh,marketplace,new
+C00322,2022-11-04,United Kingdom,Scotland,Edinburgh,organic,vip
+C00323,2022-09-29,Australia,New South Wales,Sydney,paid_search,returning
+C00324,2025-03-28,Australia,New South Wales,Sydney,social,new
+C00325,2024-10-10,Canada,Quebec,Montreal,organic,returning
+C00326,2025-07-12,Canada,Quebec,Montreal,organic,new
+C00327,2025-05-26,United States,California,Los Angeles,paid_search,new
+C00328,2022-09-01,Canada,Ontario,Toronto,email,returning
+C00329,2022-10-21,United States,New York,New York,organic,new
+C00330,2022-06-14,Australia,Victoria,Melbourne,marketplace,new
+C00331,2024-11-28,United States,New York,New York,paid_search,new
+C00332,2024-01-13,Canada,Quebec,Montreal,paid_search,new
+C00333,2023-09-21,United Kingdom,Scotland,Edinburgh,organic,new
+C00334,2024-09-01,United States,Washington,Seattle,organic,returning
+C00335,2022-04-08,United States,Texas,Austin,social,returning
+C00336,2024-09-13,France,Ile-de-France,Paris,social,returning
+C00337,2025-02-24,United States,California,Los Angeles,email,new
+C00338,2025-06-07,France,Ile-de-France,Paris,marketplace,returning
+C00339,2024-12-22,United States,California,Los Angeles,marketplace,new
+C00340,2023-01-26,Germany,Berlin,Berlin,referral,new
+C00341,2024-12-23,Australia,Victoria,Melbourne,referral,vip
+C00342,2022-05-03,Australia,Victoria,Melbourne,social,new
+C00343,2024-08-06,United States,Washington,Seattle,social,new
+C00344,2025-05-12,United States,New York,New York,social,new
+C00345,2022-04-16,United States,Illinois,Chicago,paid_search,returning
+C00346,2023-10-18,United States,Washington,Seattle,organic,returning
+C00347,2024-02-01,Canada,Ontario,Toronto,social,returning
+C00348,2023-12-16,United Kingdom,Scotland,Edinburgh,paid_search,new
+C00349,2023-11-06,United States,Illinois,Chicago,email,returning
+C00350,2025-01-18,United States,Illinois,Chicago,organic,vip
+C00351,2025-10-27,United States,California,Los Angeles,organic,new
+C00352,2022-12-17,United States,California,Los Angeles,organic,new
+C00353,2022-06-17,France,Ile-de-France,Paris,organic,new
+C00354,2025-04-11,Australia,New South Wales,Sydney,paid_search,returning
+C00355,2023-05-01,France,Ile-de-France,Paris,social,new
+C00356,2025-11-13,United States,Texas,Austin,marketplace,vip
+C00357,2022-06-06,United Kingdom,Scotland,Edinburgh,organic,new
+C00358,2025-09-29,Germany,Berlin,Berlin,referral,new
+C00359,2024-01-23,United States,Texas,Austin,social,new
+C00360,2023-02-26,France,Ile-de-France,Paris,email,returning
+C00361,2022-03-01,United States,Washington,Seattle,organic,returning
+C00362,2024-01-30,Germany,Berlin,Berlin,referral,vip
+C00363,2025-01-19,United States,New York,New York,paid_search,vip
+C00364,2025-04-17,Germany,Berlin,Berlin,social,new
+C00365,2023-04-02,Canada,Ontario,Toronto,organic,new
+C00366,2022-02-16,United States,Washington,Seattle,referral,new
+C00367,2022-05-08,Canada,Quebec,Montreal,referral,new
+C00368,2024-12-26,Germany,Berlin,Berlin,organic,new
+C00369,2024-11-14,United States,Texas,Austin,organic,returning
+C00370,2023-11-05,United States,Washington,Seattle,organic,new
+C00371,2023-12-23,France,Ile-de-France,Paris,paid_search,new
+C00372,2023-07-27,Canada,Ontario,Toronto,email,new
+C00373,2024-04-01,United Kingdom,England,London,email,returning
+C00374,2024-04-28,Germany,Berlin,Berlin,email,new
+C00375,2024-01-06,Australia,New South Wales,Sydney,organic,new
+C00376,2022-03-19,Australia,Victoria,Melbourne,paid_search,returning
+C00377,2024-10-15,Canada,Ontario,Toronto,referral,new
+C00378,2023-11-14,United States,Illinois,Chicago,paid_search,new
+C00379,2024-03-17,Canada,Ontario,Toronto,paid_search,new
+C00380,2022-07-11,Canada,Quebec,Montreal,email,returning
+C00381,2024-01-04,United States,Illinois,Chicago,organic,returning
+C00382,2024-03-22,United Kingdom,Scotland,Edinburgh,email,returning
+C00383,2024-03-12,Canada,Ontario,Toronto,social,new
+C00384,2024-06-16,United States,New York,New York,organic,new
+C00385,2025-06-17,France,Ile-de-France,Paris,marketplace,new
+C00386,2022-05-14,Canada,Quebec,Montreal,referral,new
+C00387,2023-01-26,Australia,New South Wales,Sydney,paid_search,new
+C00388,2022-04-22,United States,California,Los Angeles,organic,new
+C00389,2024-05-30,United Kingdom,England,London,paid_search,returning
+C00390,2024-05-28,Australia,New South Wales,Sydney,social,returning
+C00391,2022-03-09,Australia,Victoria,Melbourne,organic,returning
+C00392,2022-05-26,France,Ile-de-France,Paris,organic,new
+C00393,2023-02-16,United Kingdom,Scotland,Edinburgh,marketplace,new
+C00394,2024-03-08,United States,Texas,Austin,marketplace,new
+C00395,2025-03-06,United States,Washington,Seattle,organic,new
+C00396,2022-09-04,United States,Washington,Seattle,marketplace,vip
+C00397,2022-02-19,United States,Washington,Seattle,social,new
+C00398,2025-10-24,Australia,Victoria,Melbourne,organic,returning
+C00399,2022-10-11,United States,California,Los Angeles,paid_search,returning
+C00400,2024-12-20,Australia,Victoria,Melbourne,paid_search,returning
+C00401,2025-03-28,France,Ile-de-France,Paris,organic,returning
+C00402,2023-09-08,United States,Texas,Austin,referral,returning
+C00403,2023-02-15,Australia,Victoria,Melbourne,paid_search,new
+C00404,2025-01-24,United States,Illinois,Chicago,organic,returning
+C00405,2022-06-05,United Kingdom,Scotland,Edinburgh,paid_search,returning
+C00406,2022-11-25,United Kingdom,Scotland,Edinburgh,organic,new
+C00407,2023-11-07,France,Ile-de-France,Paris,organic,new
+C00408,2022-03-11,United States,California,Los Angeles,social,vip
+C00409,2024-09-03,France,Ile-de-France,Paris,paid_search,returning
+C00410,2025-05-06,Canada,Ontario,Toronto,organic,returning
+C00411,2024-10-13,United States,Texas,Austin,organic,new
+C00412,2023-03-01,United Kingdom,England,London,paid_search,new
+C00413,2025-08-30,France,Ile-de-France,Paris,social,returning
+C00414,2023-11-25,Australia,Victoria,Melbourne,organic,new
+C00415,2024-12-28,United Kingdom,Scotland,Edinburgh,social,vip
+C00416,2024-06-09,United States,California,Los Angeles,organic,vip
+C00417,2023-11-20,United States,Washington,Seattle,paid_search,new
+C00418,2024-07-22,United States,California,Los Angeles,paid_search,new
+C00419,2022-09-10,United States,New York,New York,organic,returning
+C00420,2022-04-21,United Kingdom,Scotland,Edinburgh,organic,new
+C00421,2025-03-01,United Kingdom,England,London,paid_search,new
+C00422,2022-06-13,Australia,New South Wales,Sydney,social,new
+C00423,2025-11-11,United States,New York,New York,social,vip
+C00424,2022-11-14,United States,New York,New York,email,new
+C00425,2024-02-29,Canada,Quebec,Montreal,marketplace,returning
+C00426,2023-02-21,United Kingdom,Scotland,Edinburgh,email,new
+C00427,2023-07-03,United Kingdom,England,London,paid_search,new
+C00428,2024-07-04,Canada,Quebec,Montreal,referral,new
+C00429,2023-10-03,United Kingdom,England,London,email,new
+C00430,2023-12-28,United States,New York,New York,organic,returning
+C00431,2022-08-17,United Kingdom,England,London,social,returning
+C00432,2025-01-20,Australia,New South Wales,Sydney,paid_search,new
+C00433,2022-05-19,United States,Washington,Seattle,referral,new
+C00434,2025-06-30,United States,Illinois,Chicago,organic,new
+C00435,2025-08-11,United States,Illinois,Chicago,organic,new
+C00436,2024-07-07,United Kingdom,England,London,social,new
+C00437,2024-01-24,Australia,Victoria,Melbourne,marketplace,new
+C00438,2025-10-11,Australia,Victoria,Melbourne,organic,new
+C00439,2023-11-01,United States,California,Los Angeles,marketplace,returning
+C00440,2024-03-09,France,Ile-de-France,Paris,social,new
+C00441,2023-02-25,Canada,Ontario,Toronto,marketplace,returning
+C00442,2024-03-04,United Kingdom,Scotland,Edinburgh,paid_search,new
+C00443,2023-03-10,Germany,Berlin,Berlin,email,vip
+C00444,2025-05-22,United States,Texas,Austin,paid_search,new
+C00445,2025-04-15,Australia,New South Wales,Sydney,social,returning
+C00446,2024-09-04,France,Ile-de-France,Paris,social,returning
+C00447,2024-07-15,Australia,New South Wales,Sydney,social,new
+C00448,2025-05-28,United States,California,Los Angeles,paid_search,returning
+C00449,2024-07-20,United States,Texas,Austin,paid_search,returning
+C00450,2023-12-22,United States,Illinois,Chicago,marketplace,returning
+C00451,2024-07-13,Canada,Quebec,Montreal,paid_search,new
+C00452,2024-06-29,Canada,Quebec,Montreal,social,new
+C00453,2025-10-02,Australia,New South Wales,Sydney,paid_search,returning
+C00454,2022-07-30,United States,New York,New York,marketplace,new
+C00455,2024-04-11,Australia,New South Wales,Sydney,paid_search,returning
+C00456,2025-09-10,United States,California,Los Angeles,social,new
+C00457,2023-01-21,Australia,Victoria,Melbourne,paid_search,new
+C00458,2024-03-10,Australia,Victoria,Melbourne,paid_search,returning
+C00459,2025-01-21,United States,Illinois,Chicago,social,returning
+C00460,2022-12-26,United Kingdom,Scotland,Edinburgh,organic,new
+C00461,2023-09-27,France,Ile-de-France,Paris,paid_search,new
+C00462,2025-03-08,United States,Texas,Austin,organic,new
+C00463,2022-12-09,United States,California,Los Angeles,organic,returning
+C00464,2024-03-24,United Kingdom,Scotland,Edinburgh,social,new
+C00465,2023-09-13,Australia,Victoria,Melbourne,referral,new
+C00466,2022-06-03,United Kingdom,England,London,email,new
+C00467,2024-02-22,United States,California,Los Angeles,organic,returning
+C00468,2024-07-29,United States,California,Los Angeles,marketplace,new
+C00469,2022-09-21,United States,California,Los Angeles,paid_search,new
+C00470,2025-07-08,Canada,Ontario,Toronto,organic,returning
+C00471,2022-08-22,United States,New York,New York,paid_search,new
+C00472,2022-10-19,Germany,Berlin,Berlin,paid_search,returning
+C00473,2024-02-07,Australia,New South Wales,Sydney,paid_search,new
+C00474,2025-01-27,Australia,New South Wales,Sydney,email,returning
+C00475,2022-03-08,France,Ile-de-France,Paris,social,returning
+C00476,2024-01-25,United Kingdom,England,London,paid_search,returning
+C00477,2025-10-22,United States,New York,New York,paid_search,vip
+C00478,2025-05-23,United States,New York,New York,organic,returning
+C00479,2024-01-25,United States,Texas,Austin,organic,new
+C00480,2024-05-18,United States,Illinois,Chicago,organic,returning
+C00481,2022-03-04,United States,New York,New York,organic,vip
+C00482,2025-01-18,Australia,Victoria,Melbourne,organic,new
+C00483,2022-07-17,Germany,Berlin,Berlin,referral,vip
+C00484,2023-09-08,United States,California,Los Angeles,email,returning
+C00485,2022-10-29,Australia,Victoria,Melbourne,paid_search,returning
+C00486,2025-01-30,United States,Illinois,Chicago,organic,returning
+C00487,2022-02-18,United States,Illinois,Chicago,organic,returning
+C00488,2025-01-23,United States,Texas,Austin,social,new
+C00489,2025-05-14,Australia,New South Wales,Sydney,social,new
+C00490,2025-07-22,Australia,New South Wales,Sydney,marketplace,new
+C00491,2022-04-03,France,Ile-de-France,Paris,paid_search,vip
+C00492,2022-03-02,United States,Illinois,Chicago,paid_search,vip
+C00493,2022-11-21,France,Ile-de-France,Paris,paid_search,returning
+C00494,2023-04-13,United States,California,Los Angeles,organic,new
+C00495,2022-09-07,Australia,Victoria,Melbourne,marketplace,returning
+C00496,2025-08-29,Canada,Quebec,Montreal,paid_search,returning
+C00497,2023-07-04,Australia,New South Wales,Sydney,email,returning
+C00498,2022-10-13,Canada,Ontario,Toronto,referral,new
+C00499,2025-11-09,United States,California,Los Angeles,paid_search,returning
+C00500,2023-06-20,Germany,Berlin,Berlin,paid_search,returning
+C00501,2024-02-15,Germany,Berlin,Berlin,social,returning
+C00502,2022-08-22,United Kingdom,Scotland,Edinburgh,email,new
+C00503,2022-08-25,United States,Illinois,Chicago,paid_search,returning
+C00504,2023-07-06,United States,New York,New York,social,new
+C00505,2022-11-24,United States,Washington,Seattle,organic,new
+C00506,2024-12-29,Canada,Ontario,Toronto,organic,new
+C00507,2022-01-15,United Kingdom,Scotland,Edinburgh,referral,new
+C00508,2022-03-14,United States,California,Los Angeles,social,new
+C00509,2022-05-17,Australia,Victoria,Melbourne,organic,new
+C00510,2022-03-19,United States,Illinois,Chicago,social,returning
+C00511,2023-06-23,United States,California,Los Angeles,organic,vip
+C00512,2022-07-05,United States,Washington,Seattle,organic,returning
+C00513,2022-11-12,United States,California,Los Angeles,organic,returning
+C00514,2025-07-10,United States,New York,New York,organic,new
+C00515,2024-06-17,United States,California,Los Angeles,organic,returning
+C00516,2025-07-18,Canada,Ontario,Toronto,organic,new
+C00517,2024-04-26,United States,Washington,Seattle,organic,new
+C00518,2022-07-24,United Kingdom,England,London,referral,new
+C00519,2023-07-27,Australia,Victoria,Melbourne,email,returning
+C00520,2023-04-13,United States,Texas,Austin,paid_search,new
+C00521,2023-05-02,Canada,Ontario,Toronto,paid_search,new
+C00522,2022-05-09,United States,Washington,Seattle,organic,returning
+C00523,2022-06-09,Germany,Berlin,Berlin,email,new
+C00524,2023-11-18,Australia,New South Wales,Sydney,organic,returning
+C00525,2024-10-19,Australia,New South Wales,Sydney,organic,new
+C00526,2025-03-16,Canada,Quebec,Montreal,email,new
+C00527,2024-05-06,Australia,Victoria,Melbourne,email,vip
+C00528,2024-09-14,United States,New York,New York,social,new
+C00529,2025-11-22,United Kingdom,Scotland,Edinburgh,organic,new
+C00530,2024-09-25,United States,Illinois,Chicago,paid_search,new
+C00531,2022-10-27,United States,California,Los Angeles,social,returning
+C00532,2025-01-13,United States,California,Los Angeles,referral,returning
+C00533,2025-03-03,United Kingdom,Scotland,Edinburgh,paid_search,returning
+C00534,2022-08-14,Australia,New South Wales,Sydney,paid_search,returning
+C00535,2025-04-08,United States,Washington,Seattle,marketplace,returning
+C00536,2025-06-07,United States,Illinois,Chicago,organic,new
+C00537,2022-02-25,United States,Illinois,Chicago,organic,new
+C00538,2023-07-01,United States,New York,New York,organic,returning
+C00539,2025-06-29,United States,Texas,Austin,organic,returning
+C00540,2022-08-23,United States,New York,New York,referral,new
+C00541,2024-07-31,United States,New York,New York,email,returning
+C00542,2025-06-23,United States,Illinois,Chicago,paid_search,new
+C00543,2024-07-05,United States,Texas,Austin,email,new
+C00544,2024-01-31,United Kingdom,Scotland,Edinburgh,social,returning
+C00545,2022-09-21,United States,New York,New York,paid_search,returning
+C00546,2022-06-11,United Kingdom,Scotland,Edinburgh,organic,returning
+C00547,2025-05-03,United States,New York,New York,organic,vip
+C00548,2022-10-27,Australia,Victoria,Melbourne,organic,new
+C00549,2024-09-21,Germany,Berlin,Berlin,organic,new
+C00550,2022-06-13,Australia,New South Wales,Sydney,social,returning
+C00551,2023-03-09,France,Ile-de-France,Paris,referral,new
+C00552,2025-02-19,United Kingdom,Scotland,Edinburgh,marketplace,new
+C00553,2023-06-04,Australia,Victoria,Melbourne,social,new
+C00554,2024-10-14,United States,California,Los Angeles,social,vip
+C00555,2024-09-14,Canada,Quebec,Montreal,paid_search,new
+C00556,2023-07-23,United States,Texas,Austin,referral,new
+C00557,2024-12-06,Australia,Victoria,Melbourne,marketplace,returning
+C00558,2023-04-17,United States,Washington,Seattle,email,returning
+C00559,2024-12-28,Canada,Ontario,Toronto,organic,returning
+C00560,2023-07-26,France,Ile-de-France,Paris,paid_search,new
+C00561,2022-12-30,United States,Texas,Austin,email,returning
+C00562,2025-06-14,Australia,New South Wales,Sydney,social,returning
+C00563,2025-01-07,Germany,Berlin,Berlin,social,returning
+C00564,2024-04-23,Canada,Ontario,Toronto,referral,new
+C00565,2025-08-25,United States,New York,New York,email,new
+C00566,2024-07-27,United Kingdom,England,London,paid_search,returning
+C00567,2023-11-01,France,Ile-de-France,Paris,organic,vip
+C00568,2023-12-01,United Kingdom,England,London,organic,new
+C00569,2023-02-04,Canada,Quebec,Montreal,social,returning
+C00570,2023-01-10,France,Ile-de-France,Paris,social,returning
+C00571,2024-02-29,United States,California,Los Angeles,social,returning
+C00572,2025-07-04,United Kingdom,England,London,marketplace,new
+C00573,2025-02-13,United Kingdom,Scotland,Edinburgh,marketplace,new
+C00574,2022-03-18,United States,Texas,Austin,marketplace,vip
+C00575,2025-06-20,Australia,New South Wales,Sydney,paid_search,new
+C00576,2022-03-05,United States,Texas,Austin,email,returning
+C00577,2025-03-20,France,Ile-de-France,Paris,paid_search,new
+C00578,2024-02-17,United States,Washington,Seattle,organic,vip
+C00579,2022-11-20,France,Ile-de-France,Paris,paid_search,new
+C00580,2025-01-23,United States,Washington,Seattle,paid_search,returning
+C00581,2023-05-15,Australia,New South Wales,Sydney,social,new
+C00582,2024-10-07,United Kingdom,Scotland,Edinburgh,paid_search,returning
+C00583,2023-02-11,United States,Illinois,Chicago,marketplace,new
+C00584,2025-06-23,France,Ile-de-France,Paris,organic,new
+C00585,2024-01-05,Canada,Quebec,Montreal,referral,new
+C00586,2022-10-23,Germany,Berlin,Berlin,paid_search,vip
+C00587,2023-08-17,United States,Texas,Austin,paid_search,new
+C00588,2024-11-27,Canada,Quebec,Montreal,organic,returning
+C00589,2022-01-11,France,Ile-de-France,Paris,organic,returning
+C00590,2024-03-26,France,Ile-de-France,Paris,paid_search,returning
+C00591,2025-08-24,United States,Washington,Seattle,marketplace,new
+C00592,2025-03-17,Germany,Berlin,Berlin,organic,returning
+C00593,2024-04-23,Australia,Victoria,Melbourne,referral,new
+C00594,2025-07-18,Australia,New South Wales,Sydney,marketplace,new
+C00595,2023-10-01,United States,New York,New York,social,returning
+C00596,2023-07-26,Canada,Ontario,Toronto,email,returning
+C00597,2022-07-10,United States,California,Los Angeles,email,returning
+C00598,2024-05-31,France,Ile-de-France,Paris,email,new
+C00599,2024-12-31,United Kingdom,England,London,email,new
+C00600,2023-01-11,United States,Illinois,Chicago,marketplace,new
+C00601,2023-11-24,United Kingdom,England,London,marketplace,new
+C00602,2023-04-20,United States,New York,New York,paid_search,new
+C00603,2022-10-20,United Kingdom,England,London,email,returning
+C00604,2024-04-12,United Kingdom,Scotland,Edinburgh,paid_search,new
+C00605,2025-10-14,Australia,New South Wales,Sydney,organic,returning
+C00606,2023-01-02,United Kingdom,Scotland,Edinburgh,social,new
+C00607,2025-03-14,United Kingdom,Scotland,Edinburgh,organic,vip
+C00608,2024-07-13,Germany,Berlin,Berlin,paid_search,returning
+C00609,2025-05-24,United States,California,Los Angeles,paid_search,new
+C00610,2023-10-01,United States,California,Los Angeles,referral,new
+C00611,2023-11-07,United States,Washington,Seattle,paid_search,new
+C00612,2023-12-15,Australia,New South Wales,Sydney,referral,new
+C00613,2022-01-07,Germany,Berlin,Berlin,email,vip
+C00614,2022-08-29,France,Ile-de-France,Paris,organic,new
+C00615,2022-01-03,United Kingdom,Scotland,Edinburgh,paid_search,returning
+C00616,2024-03-22,Canada,Ontario,Toronto,paid_search,returning
+C00617,2025-10-15,Canada,Quebec,Montreal,organic,new
+C00618,2022-03-06,Canada,Quebec,Montreal,organic,returning
+C00619,2025-05-22,United States,Texas,Austin,organic,returning
+C00620,2022-07-26,Australia,New South Wales,Sydney,paid_search,returning
+C00621,2025-04-07,United States,Washington,Seattle,paid_search,returning
+C00622,2022-02-17,United States,Texas,Austin,organic,new
+C00623,2022-01-28,United States,New York,New York,organic,vip
+C00624,2023-06-22,Germany,Berlin,Berlin,email,new
+C00625,2024-10-29,United States,Washington,Seattle,organic,returning
+C00626,2022-11-24,Germany,Berlin,Berlin,paid_search,returning
+C00627,2023-09-08,United States,New York,New York,email,new
+C00628,2024-12-26,United States,California,Los Angeles,paid_search,new
+C00629,2025-05-21,United Kingdom,England,London,paid_search,new
+C00630,2025-09-02,Canada,Ontario,Toronto,referral,returning
+C00631,2024-02-27,Australia,Victoria,Melbourne,paid_search,new
+C00632,2024-02-11,United States,Texas,Austin,marketplace,new
+C00633,2025-11-13,Australia,Victoria,Melbourne,organic,returning
+C00634,2024-10-24,United States,Illinois,Chicago,social,vip
+C00635,2023-10-07,Canada,Ontario,Toronto,email,new
+C00636,2023-03-12,United States,New York,New York,social,new
+C00637,2022-07-19,Canada,Quebec,Montreal,paid_search,new
+C00638,2023-03-23,Australia,New South Wales,Sydney,email,new
+C00639,2024-04-18,United States,California,Los Angeles,organic,returning
+C00640,2025-10-11,United States,New York,New York,paid_search,new
+C00641,2025-04-21,United States,New York,New York,email,new
+C00642,2022-03-11,United States,Washington,Seattle,organic,returning
+C00643,2022-05-09,France,Ile-de-France,Paris,organic,new
+C00644,2025-10-30,United States,Washington,Seattle,email,new
+C00645,2025-12-01,France,Ile-de-France,Paris,referral,vip
+C00646,2022-04-13,United States,New York,New York,organic,returning
+C00647,2024-02-23,United Kingdom,England,London,referral,returning
+C00648,2025-10-11,United States,California,Los Angeles,paid_search,new
+C00649,2024-01-14,Australia,New South Wales,Sydney,paid_search,new
+C00650,2023-06-18,United Kingdom,England,London,organic,vip
+C00651,2024-01-15,Canada,Ontario,Toronto,paid_search,new
+C00652,2025-11-28,Canada,Ontario,Toronto,organic,new
+C00653,2022-01-24,United Kingdom,Scotland,Edinburgh,marketplace,returning
+C00654,2025-11-02,Australia,New South Wales,Sydney,organic,new
+C00655,2023-07-28,France,Ile-de-France,Paris,organic,returning
+C00656,2025-10-29,United States,Washington,Seattle,paid_search,returning
+C00657,2025-11-18,Australia,New South Wales,Sydney,organic,new
+C00658,2023-03-20,United States,California,Los Angeles,organic,returning
+C00659,2025-04-24,United States,Texas,Austin,organic,returning
+C00660,2023-11-14,United Kingdom,England,London,organic,vip
+C00661,2025-07-13,Canada,Ontario,Toronto,paid_search,vip
+C00662,2022-03-21,United States,Washington,Seattle,organic,new
+C00663,2023-08-06,France,Ile-de-France,Paris,email,new
+C00664,2025-07-08,France,Ile-de-France,Paris,email,new
+C00665,2022-09-13,United Kingdom,Scotland,Edinburgh,marketplace,new
+C00666,2022-07-04,United States,Texas,Austin,marketplace,returning
+C00667,2024-02-28,United States,New York,New York,referral,returning
+C00668,2024-09-25,United Kingdom,England,London,paid_search,returning
+C00669,2023-11-12,United States,Illinois,Chicago,email,new
+C00670,2023-11-27,United States,California,Los Angeles,social,returning
+C00671,2022-08-07,United States,New York,New York,marketplace,new
+C00672,2024-07-17,Australia,Victoria,Melbourne,social,vip
+C00673,2024-04-30,Canada,Ontario,Toronto,email,new
+C00674,2025-02-16,United States,Illinois,Chicago,email,returning
+C00675,2025-03-10,United States,Texas,Austin,referral,new
+C00676,2024-11-11,Australia,New South Wales,Sydney,marketplace,vip
+C00677,2024-01-16,United States,California,Los Angeles,organic,vip
+C00678,2022-08-22,Canada,Quebec,Montreal,email,new
+C00679,2025-05-05,United Kingdom,England,London,email,new
+C00680,2023-07-17,United Kingdom,England,London,paid_search,vip
+C00681,2023-05-19,United States,New York,New York,organic,new
+C00682,2023-03-02,United States,Washington,Seattle,referral,returning
+C00683,2025-05-14,United States,Texas,Austin,paid_search,returning
+C00684,2022-06-19,United States,Texas,Austin,organic,returning
+C00685,2025-07-21,United States,California,Los Angeles,organic,returning
+C00686,2025-06-13,Australia,Victoria,Melbourne,marketplace,new
+C00687,2023-03-13,Canada,Quebec,Montreal,organic,returning
+C00688,2022-01-17,Germany,Berlin,Berlin,email,vip
+C00689,2023-11-04,United States,Illinois,Chicago,paid_search,new
+C00690,2023-09-15,United States,California,Los Angeles,marketplace,new
+C00691,2025-09-28,Australia,Victoria,Melbourne,social,returning
+C00692,2025-01-18,United Kingdom,Scotland,Edinburgh,organic,returning
+C00693,2025-03-29,United States,Illinois,Chicago,referral,returning
+C00694,2025-04-15,United States,Washington,Seattle,paid_search,new
+C00695,2022-01-27,Australia,Victoria,Melbourne,email,returning
+C00696,2023-04-06,United States,New York,New York,social,returning
+C00697,2024-10-11,United States,Texas,Austin,marketplace,returning
+C00698,2025-11-07,United States,California,Los Angeles,referral,new
+C00699,2024-05-07,United States,Illinois,Chicago,organic,new
+C00700,2024-07-25,United States,New York,New York,organic,new
+C00701,2022-07-15,Australia,Victoria,Melbourne,social,new
+C00702,2025-10-01,United States,California,Los Angeles,marketplace,vip
+C00703,2022-09-14,Australia,New South Wales,Sydney,organic,new
+C00704,2025-01-24,Australia,New South Wales,Sydney,social,new
+C00705,2023-12-13,United Kingdom,England,London,email,new
+C00706,2022-03-19,Germany,Berlin,Berlin,organic,new
+C00707,2024-11-18,Canada,Quebec,Montreal,email,returning
+C00708,2022-12-19,France,Ile-de-France,Paris,organic,vip
+C00709,2024-03-30,Australia,New South Wales,Sydney,organic,new
+C00710,2025-06-13,Germany,Berlin,Berlin,organic,new
+C00711,2025-01-03,Australia,Victoria,Melbourne,email,returning
+C00712,2023-08-23,United States,Illinois,Chicago,organic,returning
+C00713,2022-05-30,Australia,Victoria,Melbourne,paid_search,vip
+C00714,2023-09-29,United States,Texas,Austin,social,vip
+C00715,2024-05-15,United States,Texas,Austin,organic,new
+C00716,2025-08-09,France,Ile-de-France,Paris,organic,new
+C00717,2024-05-13,United States,Illinois,Chicago,organic,returning
+C00718,2025-09-15,United States,Washington,Seattle,organic,new
+C00719,2022-05-15,Canada,Quebec,Montreal,organic,new
+C00720,2024-05-25,Germany,Berlin,Berlin,organic,returning
+C00721,2024-07-29,United Kingdom,Scotland,Edinburgh,social,new
+C00722,2023-01-30,United States,New York,New York,email,returning
+C00723,2023-01-05,United States,Washington,Seattle,referral,new
+C00724,2024-09-18,United States,New York,New York,organic,returning
+C00725,2024-02-09,Germany,Berlin,Berlin,paid_search,new
+C00726,2025-10-22,France,Ile-de-France,Paris,organic,new
+C00727,2022-03-29,United Kingdom,England,London,email,new
+C00728,2025-03-23,Australia,New South Wales,Sydney,organic,new
+C00729,2022-04-29,Canada,Quebec,Montreal,email,vip
+C00730,2025-01-22,Germany,Berlin,Berlin,social,new
+C00731,2023-12-22,France,Ile-de-France,Paris,paid_search,new
+C00732,2024-01-08,United States,Illinois,Chicago,social,new
+C00733,2022-05-25,United States,California,Los Angeles,referral,returning
+C00734,2022-07-29,United Kingdom,England,London,referral,new
+C00735,2022-06-10,United Kingdom,England,London,paid_search,new
+C00736,2023-01-31,France,Ile-de-France,Paris,social,vip
+C00737,2022-04-13,Australia,New South Wales,Sydney,paid_search,returning
+C00738,2024-05-03,United States,Texas,Austin,organic,returning
+C00739,2025-07-19,Canada,Quebec,Montreal,organic,vip
+C00740,2025-07-25,United States,Texas,Austin,social,new
+C00741,2023-04-23,United States,Illinois,Chicago,email,returning
+C00742,2024-06-06,Canada,Ontario,Toronto,marketplace,new
+C00743,2023-01-20,Australia,New South Wales,Sydney,referral,new
+C00744,2022-07-12,United States,New York,New York,social,new
+C00745,2023-10-13,United States,Texas,Austin,organic,new
+C00746,2025-06-28,Germany,Berlin,Berlin,organic,new
+C00747,2025-05-18,France,Ile-de-France,Paris,email,new
+C00748,2025-05-12,United States,Washington,Seattle,email,returning
+C00749,2025-09-03,United States,New York,New York,paid_search,returning
+C00750,2024-07-01,United States,Washington,Seattle,organic,returning
+C00751,2022-11-26,United States,Illinois,Chicago,email,returning
+C00752,2024-10-17,United Kingdom,Scotland,Edinburgh,marketplace,returning
+C00753,2022-04-03,United States,Illinois,Chicago,email,vip
+C00754,2025-01-02,United Kingdom,Scotland,Edinburgh,referral,returning
+C00755,2024-05-20,United Kingdom,England,London,paid_search,new
+C00756,2022-12-02,Canada,Ontario,Toronto,organic,returning
+C00757,2024-08-18,United States,New York,New York,social,returning
+C00758,2024-02-14,United Kingdom,England,London,organic,returning
+C00759,2024-09-12,United Kingdom,Scotland,Edinburgh,social,returning
+C00760,2024-06-20,Australia,New South Wales,Sydney,social,vip
+C00761,2024-07-18,Canada,Quebec,Montreal,organic,new
+C00762,2022-01-16,Australia,New South Wales,Sydney,email,new
+C00763,2025-01-24,Canada,Quebec,Montreal,organic,returning
+C00764,2022-04-10,Australia,Victoria,Melbourne,referral,new
+C00765,2025-08-14,Canada,Ontario,Toronto,email,new
+C00766,2022-11-20,Australia,Victoria,Melbourne,paid_search,returning
+C00767,2022-03-28,United States,New York,New York,email,new
+C00768,2024-10-29,Canada,Ontario,Toronto,social,returning
+C00769,2022-02-11,Australia,Victoria,Melbourne,email,returning
+C00770,2024-12-31,United States,Washington,Seattle,organic,new
+C00771,2025-10-26,United States,Illinois,Chicago,paid_search,new
+C00772,2025-06-18,Canada,Ontario,Toronto,social,new
+C00773,2022-07-16,Australia,New South Wales,Sydney,organic,new
+C00774,2024-01-17,United States,Illinois,Chicago,social,new
+C00775,2024-01-13,United States,Texas,Austin,email,new
+C00776,2025-09-14,United Kingdom,Scotland,Edinburgh,organic,returning
+C00777,2025-10-23,United States,Illinois,Chicago,organic,returning
+C00778,2022-12-23,Canada,Ontario,Toronto,marketplace,returning
+C00779,2025-05-25,United Kingdom,England,London,paid_search,new
+C00780,2022-06-16,Germany,Berlin,Berlin,organic,new
+C00781,2023-11-02,United Kingdom,Scotland,Edinburgh,email,new
+C00782,2022-07-20,Australia,Victoria,Melbourne,marketplace,new
+C00783,2024-10-17,Germany,Berlin,Berlin,marketplace,new
+C00784,2022-05-31,France,Ile-de-France,Paris,organic,new
+C00785,2024-12-26,United States,Washington,Seattle,referral,returning
+C00786,2024-12-02,United Kingdom,Scotland,Edinburgh,paid_search,new
+C00787,2024-11-01,Australia,New South Wales,Sydney,social,new
+C00788,2022-11-28,France,Ile-de-France,Paris,social,returning
+C00789,2024-04-02,United States,Texas,Austin,organic,new
+C00790,2024-06-16,Germany,Berlin,Berlin,marketplace,returning
+C00791,2024-06-07,United States,New York,New York,organic,new
+C00792,2022-07-21,France,Ile-de-France,Paris,marketplace,new
+C00793,2024-10-18,Australia,Victoria,Melbourne,organic,new
+C00794,2023-02-06,Canada,Quebec,Montreal,email,new
+C00795,2024-12-30,United States,Texas,Austin,paid_search,returning
+C00796,2025-07-07,United States,Illinois,Chicago,paid_search,new
+C00797,2022-07-06,United Kingdom,Scotland,Edinburgh,paid_search,new
+C00798,2022-10-14,Canada,Ontario,Toronto,organic,returning
+C00799,2024-01-29,United Kingdom,England,London,referral,returning
+C00800,2022-02-20,United States,Washington,Seattle,paid_search,new
+C00801,2024-02-07,United States,New York,New York,paid_search,new
+C00802,2022-07-16,United States,Illinois,Chicago,marketplace,returning
+C00803,2025-01-06,United Kingdom,England,London,referral,returning
+C00804,2023-05-04,United States,California,Los Angeles,social,new
+C00805,2022-05-21,Canada,Quebec,Montreal,paid_search,returning
+C00806,2022-01-10,Australia,New South Wales,Sydney,organic,returning
+C00807,2022-04-18,United States,Illinois,Chicago,paid_search,returning
+C00808,2023-11-27,United States,New York,New York,paid_search,returning
+C00809,2025-02-14,United States,Washington,Seattle,paid_search,returning
+C00810,2022-10-22,United States,California,Los Angeles,paid_search,new
+C00811,2023-04-01,Canada,Ontario,Toronto,social,new
+C00812,2025-02-11,United States,New York,New York,email,returning
+C00813,2023-12-09,France,Ile-de-France,Paris,marketplace,returning
+C00814,2025-10-24,Canada,Quebec,Montreal,email,vip
+C00815,2023-12-02,United States,New York,New York,social,returning
+C00816,2024-05-17,Canada,Ontario,Toronto,referral,new
+C00817,2022-12-26,Germany,Berlin,Berlin,paid_search,new
+C00818,2022-07-18,United Kingdom,England,London,paid_search,returning
+C00819,2024-03-17,United Kingdom,England,London,email,new
+C00820,2023-05-30,United States,New York,New York,social,new
+C00821,2022-05-30,United States,Illinois,Chicago,social,returning
+C00822,2025-02-17,United States,Washington,Seattle,marketplace,new
+C00823,2023-09-20,Australia,Victoria,Melbourne,organic,new
+C00824,2022-08-28,Australia,Victoria,Melbourne,paid_search,new
+C00825,2023-06-27,United States,Texas,Austin,social,new
+C00826,2023-07-08,Canada,Quebec,Montreal,social,new
+C00827,2022-09-23,United States,Texas,Austin,paid_search,returning
+C00828,2024-04-07,United Kingdom,Scotland,Edinburgh,organic,new
+C00829,2024-05-08,United States,Texas,Austin,organic,returning
+C00830,2023-12-15,Australia,Victoria,Melbourne,social,new
+C00831,2024-09-28,United States,California,Los Angeles,marketplace,new
+C00832,2025-06-19,France,Ile-de-France,Paris,paid_search,returning
+C00833,2022-02-23,United States,Washington,Seattle,paid_search,new
+C00834,2024-11-11,France,Ile-de-France,Paris,marketplace,new
+C00835,2024-05-27,Germany,Berlin,Berlin,social,new
+C00836,2022-06-22,United States,Illinois,Chicago,paid_search,new
+C00837,2023-10-21,Canada,Ontario,Toronto,referral,new
+C00838,2024-09-08,United States,Washington,Seattle,social,vip
+C00839,2024-09-18,United States,New York,New York,marketplace,new
+C00840,2023-11-30,Canada,Quebec,Montreal,organic,new
+C00841,2022-02-23,Canada,Quebec,Montreal,referral,returning
+C00842,2022-09-03,United Kingdom,Scotland,Edinburgh,organic,returning
+C00843,2023-10-26,Canada,Quebec,Montreal,organic,returning
+C00844,2022-07-01,United States,Illinois,Chicago,organic,returning
+C00845,2022-12-31,Australia,New South Wales,Sydney,organic,new
+C00846,2022-09-20,Germany,Berlin,Berlin,social,returning
+C00847,2023-10-15,Canada,Quebec,Montreal,marketplace,new
+C00848,2023-07-07,United States,Washington,Seattle,paid_search,new
+C00849,2024-01-19,United States,California,Los Angeles,marketplace,new
+C00850,2022-03-26,United Kingdom,England,London,referral,returning
+C00851,2022-03-30,Australia,Victoria,Melbourne,marketplace,returning
+C00852,2022-08-03,United States,California,Los Angeles,marketplace,returning
+C00853,2023-08-29,France,Ile-de-France,Paris,social,returning
+C00854,2024-10-10,United States,Texas,Austin,social,new
+C00855,2024-07-03,United States,Washington,Seattle,social,new
+C00856,2022-03-11,United Kingdom,Scotland,Edinburgh,marketplace,new
+C00857,2025-09-23,United States,Texas,Austin,paid_search,new
+C00858,2023-08-05,United Kingdom,England,London,social,returning
+C00859,2025-04-08,Australia,Victoria,Melbourne,paid_search,returning
+C00860,2023-06-12,Australia,Victoria,Melbourne,social,returning
+C00861,2024-04-26,Canada,Quebec,Montreal,paid_search,new
+C00862,2023-06-10,Australia,Victoria,Melbourne,email,new
+C00863,2023-07-20,United States,Illinois,Chicago,email,new
+C00864,2024-08-04,United States,New York,New York,email,new
+C00865,2023-01-22,Australia,Victoria,Melbourne,email,returning
+C00866,2025-11-01,United Kingdom,England,London,referral,returning
+C00867,2024-02-20,United Kingdom,England,London,paid_search,new
+C00868,2024-03-30,Canada,Ontario,Toronto,paid_search,new
+C00869,2025-03-29,France,Ile-de-France,Paris,organic,new
+C00870,2022-11-12,United Kingdom,England,London,email,vip
+C00871,2022-11-19,Canada,Ontario,Toronto,social,new
+C00872,2024-09-01,Canada,Ontario,Toronto,social,new
+C00873,2023-03-28,United States,New York,New York,social,returning
+C00874,2024-08-07,United Kingdom,England,London,organic,returning
+C00875,2024-06-13,United States,Texas,Austin,referral,returning
+C00876,2023-06-04,United Kingdom,England,London,organic,new
+C00877,2024-11-08,United States,Washington,Seattle,marketplace,new
+C00878,2024-01-24,Canada,Quebec,Montreal,email,new
+C00879,2022-09-10,United Kingdom,Scotland,Edinburgh,referral,new
+C00880,2024-07-15,Australia,Victoria,Melbourne,email,returning
+C00881,2023-07-08,Canada,Ontario,Toronto,email,new
+C00882,2022-02-20,United States,California,Los Angeles,social,new
+C00883,2022-04-26,United States,Illinois,Chicago,organic,returning
+C00884,2024-04-21,Canada,Ontario,Toronto,organic,returning
+C00885,2024-07-19,United Kingdom,England,London,organic,returning
+C00886,2025-08-09,Canada,Quebec,Montreal,paid_search,returning
+C00887,2024-06-19,United States,California,Los Angeles,marketplace,new
+C00888,2022-07-31,Canada,Quebec,Montreal,email,new
+C00889,2022-01-02,United States,Texas,Austin,paid_search,new
+C00890,2025-01-11,United States,Washington,Seattle,organic,returning
+C00891,2022-03-05,United States,Washington,Seattle,social,new
+C00892,2025-03-04,United Kingdom,Scotland,Edinburgh,organic,new
+C00893,2024-12-02,Australia,Victoria,Melbourne,paid_search,new
+C00894,2023-04-24,United States,Texas,Austin,email,vip
+C00895,2025-11-13,Canada,Quebec,Montreal,organic,new
+C00896,2023-07-07,Germany,Berlin,Berlin,organic,returning
+C00897,2022-08-12,France,Ile-de-France,Paris,organic,returning
+C00898,2023-06-03,Australia,Victoria,Melbourne,social,returning
+C00899,2023-10-30,Canada,Quebec,Montreal,email,new
+C00900,2024-06-18,Canada,Quebec,Montreal,referral,returning
+C00901,2024-06-13,Canada,Ontario,Toronto,email,returning
+C00902,2023-05-29,United States,Washington,Seattle,organic,vip
+C00903,2023-03-11,Germany,Berlin,Berlin,social,returning
+C00904,2022-05-20,United States,Washington,Seattle,referral,returning
+C00905,2022-10-06,Australia,New South Wales,Sydney,marketplace,returning
+C00906,2025-08-19,Australia,New South Wales,Sydney,organic,returning
+C00907,2025-03-08,Australia,Victoria,Melbourne,paid_search,new
+C00908,2024-06-15,United States,Washington,Seattle,paid_search,new
+C00909,2023-07-25,Australia,Victoria,Melbourne,referral,new
+C00910,2024-10-12,Australia,Victoria,Melbourne,paid_search,returning
+C00911,2024-02-19,United States,Illinois,Chicago,email,new
+C00912,2025-04-07,Germany,Berlin,Berlin,organic,new
+C00913,2024-03-15,Canada,Ontario,Toronto,paid_search,returning
+C00914,2022-02-15,United States,New York,New York,paid_search,vip
+C00915,2024-08-10,Australia,New South Wales,Sydney,marketplace,new
+C00916,2024-12-20,Germany,Berlin,Berlin,organic,returning
+C00917,2023-10-18,Germany,Berlin,Berlin,paid_search,new
+C00918,2022-09-25,United States,Washington,Seattle,paid_search,new
+C00919,2023-09-09,United States,Illinois,Chicago,organic,new
+C00920,2022-05-21,United States,New York,New York,paid_search,new
+C00921,2024-09-04,France,Ile-de-France,Paris,organic,returning
+C00922,2024-03-25,Australia,Victoria,Melbourne,marketplace,new
+C00923,2025-05-21,Australia,Victoria,Melbourne,marketplace,new
+C00924,2023-05-18,France,Ile-de-France,Paris,email,new
+C00925,2023-08-23,United States,Washington,Seattle,marketplace,new
+C00926,2023-05-20,France,Ile-de-France,Paris,referral,new
+C00927,2023-06-24,United States,California,Los Angeles,marketplace,new
+C00928,2024-09-21,Australia,New South Wales,Sydney,social,returning
+C00929,2025-08-01,United States,Illinois,Chicago,organic,new
+C00930,2023-01-26,United States,Washington,Seattle,social,vip
+C00931,2025-01-10,United States,New York,New York,paid_search,new
+C00932,2022-11-06,United States,Texas,Austin,organic,returning
+C00933,2024-01-06,United States,Washington,Seattle,paid_search,new
+C00934,2025-08-20,Germany,Berlin,Berlin,paid_search,new
+C00935,2022-06-21,United States,California,Los Angeles,organic,new
+C00936,2024-03-22,United Kingdom,Scotland,Edinburgh,social,vip
+C00937,2022-06-30,Australia,Victoria,Melbourne,organic,new
+C00938,2025-08-11,Germany,Berlin,Berlin,social,new
+C00939,2023-03-21,United States,California,Los Angeles,organic,new
+C00940,2025-11-26,Canada,Ontario,Toronto,organic,new
+C00941,2024-02-01,Canada,Quebec,Montreal,paid_search,vip
+C00942,2023-07-20,United Kingdom,England,London,organic,new
+C00943,2023-02-22,United States,Washington,Seattle,organic,new
+C00944,2024-04-14,Canada,Quebec,Montreal,referral,returning
+C00945,2022-02-18,United States,California,Los Angeles,social,returning
+C00946,2022-01-20,France,Ile-de-France,Paris,paid_search,new
+C00947,2022-05-23,United States,Illinois,Chicago,referral,new
+C00948,2022-05-17,Australia,Victoria,Melbourne,organic,vip
+C00949,2023-05-11,United States,New York,New York,marketplace,returning
+C00950,2022-08-11,United States,California,Los Angeles,paid_search,returning
+C00951,2022-08-27,United States,Texas,Austin,organic,returning
+C00952,2023-02-08,Canada,Quebec,Montreal,organic,new
+C00953,2023-06-14,United States,Texas,Austin,referral,returning
+C00954,2022-04-04,Germany,Berlin,Berlin,social,new
+C00955,2024-06-27,Australia,Victoria,Melbourne,organic,new
+C00956,2024-01-01,United States,New York,New York,paid_search,new
+C00957,2022-12-21,Australia,Victoria,Melbourne,social,new
+C00958,2022-07-16,United Kingdom,England,London,paid_search,new
+C00959,2023-01-22,United States,Washington,Seattle,organic,new
+C00960,2022-04-12,France,Ile-de-France,Paris,referral,new
+C00961,2025-07-30,Canada,Ontario,Toronto,paid_search,new
+C00962,2024-08-27,Canada,Quebec,Montreal,social,returning
+C00963,2025-07-03,Canada,Quebec,Montreal,organic,new
+C00964,2023-08-23,Canada,Quebec,Montreal,social,returning
+C00965,2022-04-13,Canada,Ontario,Toronto,organic,new
+C00966,2024-10-19,Canada,Quebec,Montreal,email,new
+C00967,2022-01-27,United Kingdom,Scotland,Edinburgh,referral,new
+C00968,2024-09-26,Australia,Victoria,Melbourne,referral,returning
+C00969,2025-09-11,United States,New York,New York,email,returning
+C00970,2024-11-08,Canada,Ontario,Toronto,marketplace,returning
+C00971,2024-09-23,United States,Illinois,Chicago,social,new
+C00972,2023-03-23,Canada,Ontario,Toronto,paid_search,returning
+C00973,2023-03-22,United States,California,Los Angeles,social,vip
+C00974,2022-01-09,United States,Texas,Austin,social,new
+C00975,2024-01-22,United States,Illinois,Chicago,paid_search,new
+C00976,2024-08-25,Australia,New South Wales,Sydney,social,new
+C00977,2024-11-12,United States,Texas,Austin,referral,new
+C00978,2022-12-25,United States,Washington,Seattle,paid_search,new
+C00979,2022-06-28,Australia,Victoria,Melbourne,social,returning
+C00980,2023-12-03,United States,California,Los Angeles,paid_search,new
+C00981,2022-08-09,United States,New York,New York,marketplace,returning
+C00982,2025-11-30,Canada,Ontario,Toronto,organic,new
+C00983,2025-01-11,United States,Washington,Seattle,email,new
+C00984,2024-11-09,United States,California,Los Angeles,paid_search,returning
+C00985,2022-11-25,United States,Washington,Seattle,email,new
+C00986,2024-03-31,United Kingdom,Scotland,Edinburgh,email,new
+C00987,2022-10-02,United Kingdom,England,London,referral,vip
+C00988,2023-12-04,United States,New York,New York,paid_search,new
+C00989,2025-03-10,United States,Washington,Seattle,paid_search,new
+C00990,2023-05-12,Australia,New South Wales,Sydney,organic,new
+C00991,2022-03-02,United States,New York,New York,organic,vip
+C00992,2023-10-09,United States,Texas,Austin,organic,returning
+C00993,2024-04-24,United States,New York,New York,referral,new
+C00994,2023-05-08,France,Ile-de-France,Paris,organic,new
+C00995,2023-06-16,United States,New York,New York,paid_search,new
+C00996,2024-10-15,United States,Illinois,Chicago,organic,new
+C00997,2022-09-13,United States,Washington,Seattle,social,new
+C00998,2025-05-31,United Kingdom,Scotland,Edinburgh,social,returning
+C00999,2025-05-04,Australia,Victoria,Melbourne,email,new
+C01000,2025-02-21,United States,Illinois,Chicago,organic,new
+C01001,2023-02-11,United States,New York,New York,marketplace,new
+C01002,2022-07-12,United States,Texas,Austin,organic,returning
+C01003,2023-09-13,United States,Illinois,Chicago,email,new
+C01004,2022-10-13,United States,Washington,Seattle,organic,new
+C01005,2023-07-06,Australia,Victoria,Melbourne,paid_search,returning
+C01006,2025-03-24,Australia,Victoria,Melbourne,organic,new
+C01007,2023-11-30,Canada,Ontario,Toronto,social,vip
+C01008,2022-07-09,Germany,Berlin,Berlin,paid_search,returning
+C01009,2024-02-20,United States,Texas,Austin,referral,returning
+C01010,2022-09-01,United States,New York,New York,paid_search,returning
+C01011,2022-04-12,Canada,Ontario,Toronto,social,new
+C01012,2023-12-24,United States,New York,New York,organic,returning
+C01013,2023-08-15,France,Ile-de-France,Paris,marketplace,new
+C01014,2022-09-09,Australia,New South Wales,Sydney,marketplace,new
+C01015,2023-12-11,United States,Washington,Seattle,organic,returning
+C01016,2024-03-27,Canada,Ontario,Toronto,paid_search,returning
+C01017,2024-08-03,Germany,Berlin,Berlin,social,new
+C01018,2025-07-15,United States,California,Los Angeles,email,new
+C01019,2024-01-06,United Kingdom,England,London,paid_search,returning
+C01020,2022-07-12,Germany,Berlin,Berlin,referral,vip
+C01021,2022-06-12,Australia,New South Wales,Sydney,referral,new
+C01022,2022-09-30,United States,Texas,Austin,referral,new
+C01023,2025-01-07,United States,Washington,Seattle,paid_search,returning
+C01024,2023-09-22,France,Ile-de-France,Paris,social,new
+C01025,2023-06-06,Australia,Victoria,Melbourne,social,vip
+C01026,2022-01-16,United States,California,Los Angeles,social,returning
+C01027,2024-08-10,Australia,New South Wales,Sydney,paid_search,returning
+C01028,2023-05-12,United States,New York,New York,marketplace,new
+C01029,2023-12-27,Australia,Victoria,Melbourne,social,returning
+C01030,2023-04-26,United States,Washington,Seattle,referral,returning
+C01031,2025-03-23,Canada,Quebec,Montreal,referral,new
+C01032,2024-08-21,Germany,Berlin,Berlin,social,new
+C01033,2022-09-27,United States,Texas,Austin,email,returning
+C01034,2023-12-07,Australia,Victoria,Melbourne,referral,vip
+C01035,2024-11-27,Germany,Berlin,Berlin,organic,new
+C01036,2022-10-06,Australia,Victoria,Melbourne,social,new
+C01037,2024-12-22,Germany,Berlin,Berlin,referral,vip
+C01038,2025-10-11,France,Ile-de-France,Paris,organic,returning
+C01039,2023-03-18,United Kingdom,Scotland,Edinburgh,paid_search,new
+C01040,2024-07-02,United Kingdom,Scotland,Edinburgh,marketplace,returning
+C01041,2022-11-27,United States,New York,New York,marketplace,new
+C01042,2023-01-03,United States,Texas,Austin,marketplace,new
+C01043,2025-07-12,United Kingdom,Scotland,Edinburgh,social,new
+C01044,2023-09-28,United States,Illinois,Chicago,referral,returning
+C01045,2022-02-11,France,Ile-de-France,Paris,email,vip
+C01046,2025-01-20,Canada,Quebec,Montreal,organic,returning
+C01047,2024-01-14,United States,Illinois,Chicago,paid_search,new
+C01048,2025-08-08,United States,Illinois,Chicago,organic,returning
+C01049,2022-10-21,United Kingdom,Scotland,Edinburgh,email,returning
+C01050,2022-08-09,Canada,Quebec,Montreal,referral,new
+C01051,2025-08-14,Australia,New South Wales,Sydney,marketplace,returning
+C01052,2022-06-05,Canada,Ontario,Toronto,social,new
+C01053,2024-09-26,United States,Washington,Seattle,email,new
+C01054,2022-12-30,Germany,Berlin,Berlin,organic,returning
+C01055,2024-06-08,United States,Washington,Seattle,social,returning
+C01056,2025-04-29,United States,New York,New York,paid_search,returning
+C01057,2024-01-03,United Kingdom,England,London,organic,returning
+C01058,2023-05-14,Canada,Quebec,Montreal,marketplace,new
+C01059,2023-06-09,United States,Texas,Austin,marketplace,returning
+C01060,2023-07-17,United States,Washington,Seattle,referral,new
+C01061,2022-09-05,United States,Illinois,Chicago,organic,new
+C01062,2024-07-18,Canada,Ontario,Toronto,marketplace,new
+C01063,2025-04-26,United States,New York,New York,organic,new
+C01064,2022-10-13,United States,Washington,Seattle,social,new
+C01065,2025-06-22,Germany,Berlin,Berlin,referral,vip
+C01066,2022-12-25,Australia,New South Wales,Sydney,paid_search,new
+C01067,2023-12-03,United States,Texas,Austin,paid_search,returning
+C01068,2022-03-24,Australia,New South Wales,Sydney,social,returning
+C01069,2022-09-18,United Kingdom,Scotland,Edinburgh,email,returning
+C01070,2022-01-02,Australia,Victoria,Melbourne,paid_search,vip
+C01071,2024-09-17,United States,Illinois,Chicago,paid_search,new
+C01072,2025-01-16,Australia,New South Wales,Sydney,organic,returning
+C01073,2024-06-03,United States,New York,New York,paid_search,new
+C01074,2025-06-15,Germany,Berlin,Berlin,social,returning
+C01075,2024-10-15,Australia,New South Wales,Sydney,referral,new
+C01076,2022-04-22,United States,Texas,Austin,organic,new
+C01077,2022-07-02,Australia,Victoria,Melbourne,email,returning
+C01078,2024-04-06,Australia,Victoria,Melbourne,email,new
+C01079,2023-10-10,Canada,Ontario,Toronto,referral,returning
+C01080,2022-06-27,Canada,Quebec,Montreal,social,vip
+C01081,2024-06-20,United Kingdom,England,London,organic,returning
+C01082,2022-01-14,United States,Illinois,Chicago,social,new
+C01083,2022-04-06,United Kingdom,Scotland,Edinburgh,marketplace,vip
+C01084,2024-06-25,United States,Washington,Seattle,organic,returning
+C01085,2024-11-24,United Kingdom,England,London,organic,new
+C01086,2022-04-04,Canada,Quebec,Montreal,organic,new
+C01087,2023-05-26,Canada,Ontario,Toronto,paid_search,returning
+C01088,2022-08-18,Germany,Berlin,Berlin,social,returning
+C01089,2023-07-31,United States,New York,New York,organic,new
+C01090,2024-02-24,United Kingdom,Scotland,Edinburgh,paid_search,new
+C01091,2022-05-17,United States,New York,New York,paid_search,new
+C01092,2025-09-18,United States,California,Los Angeles,organic,vip
+C01093,2025-04-15,United Kingdom,England,London,paid_search,returning
+C01094,2025-10-03,United States,New York,New York,referral,new
+C01095,2023-04-19,Canada,Ontario,Toronto,referral,new
+C01096,2025-03-05,United Kingdom,England,London,paid_search,new
+C01097,2023-03-05,United States,Washington,Seattle,organic,new
+C01098,2022-12-03,Australia,Victoria,Melbourne,social,new
+C01099,2025-07-14,Canada,Quebec,Montreal,social,returning
+C01100,2023-07-17,Canada,Ontario,Toronto,email,returning
+C01101,2024-03-19,Canada,Quebec,Montreal,paid_search,new
+C01102,2022-06-11,Australia,Victoria,Melbourne,referral,new
+C01103,2024-01-12,United Kingdom,England,London,marketplace,vip
+C01104,2025-11-01,Australia,Victoria,Melbourne,organic,returning
+C01105,2025-01-10,United States,Washington,Seattle,email,returning
+C01106,2025-05-24,United States,New York,New York,organic,returning
+C01107,2023-09-24,Canada,Quebec,Montreal,social,returning
+C01108,2023-10-21,Canada,Quebec,Montreal,referral,new
+C01109,2025-06-30,United States,California,Los Angeles,paid_search,returning
+C01110,2023-11-25,Canada,Quebec,Montreal,paid_search,new
+C01111,2023-05-07,France,Ile-de-France,Paris,organic,returning
+C01112,2023-09-06,United States,New York,New York,marketplace,returning
+C01113,2023-08-20,United States,Washington,Seattle,social,vip
+C01114,2025-05-25,Germany,Berlin,Berlin,organic,vip
+C01115,2023-09-29,France,Ile-de-France,Paris,organic,returning
+C01116,2025-01-27,Australia,Victoria,Melbourne,organic,new
+C01117,2023-10-05,Germany,Berlin,Berlin,marketplace,new
+C01118,2025-05-25,Canada,Quebec,Montreal,organic,new
+C01119,2022-02-05,Canada,Quebec,Montreal,email,new
+C01120,2022-04-09,Canada,Ontario,Toronto,social,returning
+C01121,2023-12-09,United States,California,Los Angeles,organic,returning
+C01122,2024-01-22,United Kingdom,Scotland,Edinburgh,organic,new
+C01123,2025-10-24,France,Ile-de-France,Paris,marketplace,returning
+C01124,2025-08-08,United Kingdom,Scotland,Edinburgh,marketplace,vip
+C01125,2025-09-15,Canada,Quebec,Montreal,email,returning
+C01126,2024-05-25,United Kingdom,Scotland,Edinburgh,referral,new
+C01127,2022-05-15,United States,Washington,Seattle,marketplace,new
+C01128,2024-02-17,United States,Illinois,Chicago,organic,returning
+C01129,2023-03-25,Germany,Berlin,Berlin,paid_search,returning
+C01130,2022-08-09,United Kingdom,England,London,social,vip
+C01131,2023-12-17,Australia,New South Wales,Sydney,social,new
+C01132,2022-10-26,Australia,New South Wales,Sydney,organic,new
+C01133,2022-09-10,Australia,Victoria,Melbourne,paid_search,new
+C01134,2024-08-29,United Kingdom,England,London,referral,returning
+C01135,2025-04-30,Australia,New South Wales,Sydney,email,new
+C01136,2022-01-16,United States,California,Los Angeles,email,returning
+C01137,2025-03-19,United States,California,Los Angeles,social,returning
+C01138,2023-10-13,Canada,Quebec,Montreal,email,returning
+C01139,2023-06-21,United States,Texas,Austin,email,vip
+C01140,2022-05-04,Germany,Berlin,Berlin,email,returning
+C01141,2022-01-16,United States,New York,New York,social,new
+C01142,2022-11-26,France,Ile-de-France,Paris,organic,new
+C01143,2024-12-16,United Kingdom,Scotland,Edinburgh,referral,new
+C01144,2023-11-24,Canada,Ontario,Toronto,marketplace,new
+C01145,2023-08-28,Australia,New South Wales,Sydney,paid_search,returning
+C01146,2023-01-03,Australia,New South Wales,Sydney,organic,returning
+C01147,2022-09-16,United States,California,Los Angeles,social,vip
+C01148,2025-05-04,United States,California,Los Angeles,organic,new
+C01149,2023-01-30,United States,Texas,Austin,organic,returning
+C01150,2025-10-09,United Kingdom,England,London,referral,returning
+C01151,2025-03-25,Canada,Ontario,Toronto,organic,returning
+C01152,2023-05-09,Australia,New South Wales,Sydney,marketplace,new
+C01153,2023-02-09,France,Ile-de-France,Paris,paid_search,vip
+C01154,2023-10-24,United States,Texas,Austin,organic,vip
+C01155,2024-01-05,United States,California,Los Angeles,email,vip
+C01156,2024-12-31,Canada,Quebec,Montreal,email,returning
+C01157,2025-02-04,Germany,Berlin,Berlin,social,new
+C01158,2024-09-06,United States,Washington,Seattle,referral,new
+C01159,2024-05-22,Germany,Berlin,Berlin,organic,new
+C01160,2022-05-16,United States,New York,New York,social,vip
+C01161,2023-04-27,Germany,Berlin,Berlin,organic,returning
+C01162,2022-08-26,United States,Washington,Seattle,organic,vip
+C01163,2025-05-26,France,Ile-de-France,Paris,organic,new
+C01164,2024-11-07,United States,California,Los Angeles,social,returning
+C01165,2023-08-22,United States,California,Los Angeles,organic,new
+C01166,2023-12-19,United States,Washington,Seattle,social,vip
+C01167,2023-05-20,Canada,Quebec,Montreal,social,new
+C01168,2024-07-18,Germany,Berlin,Berlin,marketplace,new
+C01169,2022-01-24,United States,Texas,Austin,paid_search,returning
+C01170,2025-08-29,Germany,Berlin,Berlin,social,new
+C01171,2025-11-20,United States,California,Los Angeles,social,returning
+C01172,2022-12-08,France,Ile-de-France,Paris,organic,returning
+C01173,2024-12-14,Australia,New South Wales,Sydney,paid_search,returning
+C01174,2025-06-06,United Kingdom,England,London,social,returning
+C01175,2022-01-29,United Kingdom,England,London,marketplace,returning
+C01176,2023-08-14,United States,California,Los Angeles,social,new
+C01177,2023-05-27,United States,Illinois,Chicago,referral,new
+C01178,2023-06-16,United States,New York,New York,email,new
+C01179,2024-09-13,Australia,Victoria,Melbourne,social,returning
+C01180,2022-01-30,United States,California,Los Angeles,referral,returning
+C01181,2025-08-14,France,Ile-de-France,Paris,email,vip
+C01182,2023-06-10,Canada,Ontario,Toronto,email,returning
+C01183,2025-05-18,Germany,Berlin,Berlin,organic,returning
+C01184,2024-10-15,United States,Illinois,Chicago,organic,returning
+C01185,2023-07-15,United States,New York,New York,marketplace,new
+C01186,2022-06-18,France,Ile-de-France,Paris,marketplace,new
+C01187,2022-05-23,United Kingdom,Scotland,Edinburgh,paid_search,returning
+C01188,2023-09-10,United States,Washington,Seattle,marketplace,new
+C01189,2023-01-11,France,Ile-de-France,Paris,organic,returning
+C01190,2025-10-04,Australia,Victoria,Melbourne,organic,returning
+C01191,2024-01-25,France,Ile-de-France,Paris,email,new
+C01192,2022-12-08,United States,Washington,Seattle,organic,new
+C01193,2024-04-13,Australia,Victoria,Melbourne,email,new
+C01194,2025-05-12,United States,Illinois,Chicago,organic,new
+C01195,2022-11-21,United Kingdom,Scotland,Edinburgh,organic,returning
+C01196,2025-09-09,Canada,Ontario,Toronto,organic,new
+C01197,2022-02-18,Canada,Quebec,Montreal,marketplace,vip
+C01198,2024-05-16,Australia,New South Wales,Sydney,referral,new
+C01199,2022-10-21,United Kingdom,England,London,social,returning
+C01200,2025-07-15,United States,New York,New York,social,returning
+C01201,2024-07-22,Canada,Ontario,Toronto,paid_search,new
+C01202,2024-07-22,United States,Texas,Austin,referral,new
+C01203,2024-06-13,Canada,Quebec,Montreal,organic,new
+C01204,2022-09-08,United Kingdom,England,London,marketplace,new
+C01205,2022-09-02,Canada,Quebec,Montreal,email,new
+C01206,2022-03-11,United States,Illinois,Chicago,social,new
+C01207,2024-03-17,Australia,Victoria,Melbourne,social,returning
+C01208,2025-02-22,Germany,Berlin,Berlin,organic,new
+C01209,2022-06-15,Canada,Ontario,Toronto,referral,new
+C01210,2022-10-28,United States,California,Los Angeles,social,new
+C01211,2024-02-05,United States,Washington,Seattle,paid_search,new
+C01212,2022-09-07,Australia,New South Wales,Sydney,marketplace,new
+C01213,2023-12-16,United States,New York,New York,paid_search,new
+C01214,2024-02-03,United States,Washington,Seattle,email,new
+C01215,2024-08-13,United States,California,Los Angeles,social,returning
+C01216,2025-07-06,Australia,New South Wales,Sydney,organic,new
+C01217,2025-11-04,United States,Washington,Seattle,social,new
+C01218,2024-12-08,United States,Texas,Austin,email,new
+C01219,2022-08-02,United States,Texas,Austin,social,new
+C01220,2023-08-10,Germany,Berlin,Berlin,organic,new
+C01221,2022-09-18,United Kingdom,Scotland,Edinburgh,organic,returning
+C01222,2023-12-21,France,Ile-de-France,Paris,paid_search,new
+C01223,2022-03-23,Canada,Ontario,Toronto,email,new
+C01224,2024-04-13,Australia,New South Wales,Sydney,email,returning
+C01225,2022-09-26,United States,Texas,Austin,organic,new
+C01226,2023-05-22,United States,California,Los Angeles,organic,vip
+C01227,2023-01-03,Canada,Quebec,Montreal,paid_search,returning
+C01228,2025-02-14,United States,Washington,Seattle,email,new
+C01229,2022-06-09,United States,New York,New York,organic,new
+C01230,2025-04-30,United States,California,Los Angeles,organic,returning
+C01231,2023-09-25,United Kingdom,England,London,social,new
+C01232,2025-08-21,United Kingdom,Scotland,Edinburgh,referral,new
+C01233,2025-04-07,Germany,Berlin,Berlin,social,returning
+C01234,2025-06-13,Canada,Ontario,Toronto,organic,new
+C01235,2022-09-26,United Kingdom,England,London,organic,returning
+C01236,2024-08-17,Australia,Victoria,Melbourne,social,new
+C01237,2022-06-28,Germany,Berlin,Berlin,social,new
+C01238,2022-05-19,Australia,New South Wales,Sydney,organic,new
+C01239,2022-04-18,United Kingdom,England,London,email,new
+C01240,2022-04-06,Canada,Ontario,Toronto,social,returning
+C01241,2025-07-15,United States,Illinois,Chicago,social,new
+C01242,2023-12-02,United States,California,Los Angeles,social,returning
+C01243,2023-09-30,United Kingdom,England,London,referral,returning
+C01244,2023-08-16,Canada,Ontario,Toronto,paid_search,new
+C01245,2025-10-30,United States,Texas,Austin,social,vip
+C01246,2024-10-18,United States,Illinois,Chicago,paid_search,new
+C01247,2023-08-23,United States,New York,New York,organic,new
+C01248,2023-10-16,Germany,Berlin,Berlin,email,returning
+C01249,2023-09-01,Australia,Victoria,Melbourne,organic,new
+C01250,2023-04-11,United Kingdom,Scotland,Edinburgh,paid_search,new
+C01251,2025-04-10,Australia,Victoria,Melbourne,referral,returning
+C01252,2023-04-03,United States,Illinois,Chicago,referral,new
+C01253,2022-08-20,United States,California,Los Angeles,email,new
+C01254,2024-05-03,United States,Illinois,Chicago,paid_search,vip
+C01255,2024-08-21,Australia,Victoria,Melbourne,marketplace,new
+C01256,2023-06-19,France,Ile-de-France,Paris,referral,returning
+C01257,2024-02-16,United States,New York,New York,organic,returning
+C01258,2025-09-12,United States,Washington,Seattle,organic,returning
+C01259,2022-10-04,United States,Texas,Austin,organic,new
+C01260,2023-12-30,United Kingdom,England,London,organic,new
+C01261,2025-03-02,Germany,Berlin,Berlin,paid_search,new
+C01262,2022-06-27,Australia,Victoria,Melbourne,paid_search,vip
+C01263,2024-11-25,Australia,New South Wales,Sydney,organic,returning
+C01264,2025-02-24,United States,California,Los Angeles,paid_search,returning
+C01265,2024-06-18,United States,Texas,Austin,paid_search,new
+C01266,2025-04-28,United Kingdom,Scotland,Edinburgh,organic,new
+C01267,2024-01-09,France,Ile-de-France,Paris,referral,new
+C01268,2022-06-15,Australia,New South Wales,Sydney,referral,new
+C01269,2023-01-21,Australia,New South Wales,Sydney,referral,new
+C01270,2022-10-02,United States,Texas,Austin,social,returning
+C01271,2022-01-18,United States,Illinois,Chicago,email,returning
+C01272,2023-01-31,United States,Illinois,Chicago,email,returning
+C01273,2023-04-17,Australia,New South Wales,Sydney,paid_search,new
+C01274,2023-11-02,Germany,Berlin,Berlin,referral,returning
+C01275,2022-12-20,United Kingdom,England,London,social,vip
+C01276,2023-03-27,Germany,Berlin,Berlin,organic,returning
+C01277,2022-10-07,United Kingdom,Scotland,Edinburgh,marketplace,returning
+C01278,2025-11-06,United States,California,Los Angeles,organic,new
+C01279,2025-10-31,United States,Texas,Austin,organic,new
+C01280,2025-04-28,United States,Illinois,Chicago,referral,new
+C01281,2025-09-14,United States,Washington,Seattle,marketplace,returning
+C01282,2022-10-15,United States,New York,New York,organic,new
+C01283,2023-05-19,United States,Texas,Austin,paid_search,new
+C01284,2023-06-10,Australia,Victoria,Melbourne,referral,new
+C01285,2023-07-29,United States,Texas,Austin,referral,returning
+C01286,2022-08-15,United Kingdom,Scotland,Edinburgh,organic,new
+C01287,2024-10-04,United States,Washington,Seattle,email,vip
+C01288,2023-12-11,Australia,Victoria,Melbourne,organic,new
+C01289,2025-09-10,France,Ile-de-France,Paris,organic,new
+C01290,2022-05-09,France,Ile-de-France,Paris,organic,new
+C01291,2024-07-14,United Kingdom,England,London,marketplace,new
+C01292,2025-03-28,United States,California,Los Angeles,paid_search,returning
+C01293,2023-11-28,Australia,New South Wales,Sydney,social,new
+C01294,2024-02-05,United States,New York,New York,organic,new
+C01295,2022-04-19,United States,Washington,Seattle,marketplace,vip
+C01296,2025-07-19,United States,Washington,Seattle,paid_search,new
+C01297,2024-06-12,United States,Illinois,Chicago,referral,new
+C01298,2025-03-13,Germany,Berlin,Berlin,organic,vip
+C01299,2023-11-06,United States,New York,New York,organic,returning
+C01300,2022-02-08,United States,Texas,Austin,email,new
+C01301,2024-02-29,United Kingdom,Scotland,Edinburgh,organic,new
+C01302,2025-05-25,United States,California,Los Angeles,referral,vip
+C01303,2025-05-04,France,Ile-de-France,Paris,referral,new
+C01304,2025-06-09,United Kingdom,England,London,referral,returning
+C01305,2024-01-13,United Kingdom,Scotland,Edinburgh,paid_search,new
+C01306,2022-12-14,Germany,Berlin,Berlin,social,returning
+C01307,2023-10-10,Canada,Ontario,Toronto,marketplace,new
+C01308,2023-12-22,United States,Illinois,Chicago,paid_search,returning
+C01309,2022-12-11,Australia,Victoria,Melbourne,organic,new
+C01310,2022-05-01,Canada,Quebec,Montreal,paid_search,new
+C01311,2024-04-19,United Kingdom,Scotland,Edinburgh,referral,vip
+C01312,2022-02-23,United States,Texas,Austin,social,new
+C01313,2023-12-07,Germany,Berlin,Berlin,paid_search,returning
+C01314,2025-10-23,United Kingdom,Scotland,Edinburgh,marketplace,returning
+C01315,2022-07-20,United Kingdom,Scotland,Edinburgh,organic,new
+C01316,2025-02-16,France,Ile-de-France,Paris,organic,new
+C01317,2022-12-21,United States,Illinois,Chicago,paid_search,vip
+C01318,2024-09-26,United Kingdom,England,London,marketplace,returning
+C01319,2022-08-23,United Kingdom,Scotland,Edinburgh,social,returning
+C01320,2025-01-29,United Kingdom,England,London,social,returning
+C01321,2023-02-26,United Kingdom,England,London,email,new
+C01322,2024-04-19,France,Ile-de-France,Paris,organic,new
+C01323,2024-06-05,United States,Texas,Austin,paid_search,returning
+C01324,2024-08-17,United States,New York,New York,organic,returning
+C01325,2024-11-17,United States,New York,New York,social,new
+C01326,2025-01-14,United States,Washington,Seattle,paid_search,new
+C01327,2025-08-01,United Kingdom,Scotland,Edinburgh,marketplace,new
+C01328,2022-12-28,Germany,Berlin,Berlin,referral,new
+C01329,2022-12-21,United States,Texas,Austin,marketplace,returning
+C01330,2024-03-02,Australia,Victoria,Melbourne,paid_search,new
+C01331,2024-10-06,United Kingdom,Scotland,Edinburgh,social,returning
+C01332,2023-05-20,France,Ile-de-France,Paris,marketplace,returning
+C01333,2024-05-08,United States,New York,New York,organic,new
+C01334,2025-05-30,United States,New York,New York,social,vip
+C01335,2023-01-24,France,Ile-de-France,Paris,referral,new
+C01336,2024-06-18,France,Ile-de-France,Paris,social,new
+C01337,2023-11-24,Australia,New South Wales,Sydney,email,new
+C01338,2025-03-15,Canada,Ontario,Toronto,social,returning
+C01339,2022-01-17,Australia,New South Wales,Sydney,paid_search,returning
+C01340,2022-04-20,Canada,Quebec,Montreal,referral,returning
+C01341,2025-03-10,Australia,New South Wales,Sydney,paid_search,returning
+C01342,2024-09-11,United States,Washington,Seattle,referral,new
+C01343,2023-02-05,United States,New York,New York,organic,returning
+C01344,2025-07-29,Australia,New South Wales,Sydney,organic,returning
+C01345,2025-07-28,Canada,Ontario,Toronto,organic,returning
+C01346,2024-08-10,United States,California,Los Angeles,social,new
+C01347,2024-10-04,Germany,Berlin,Berlin,referral,returning
+C01348,2024-03-19,United Kingdom,England,London,email,new
+C01349,2024-12-21,Canada,Ontario,Toronto,social,new
+C01350,2025-01-24,Canada,Ontario,Toronto,social,new
+C01351,2023-01-26,United States,Illinois,Chicago,paid_search,returning
+C01352,2022-07-25,United States,New York,New York,referral,new
+C01353,2024-04-28,United States,Texas,Austin,paid_search,new
+C01354,2023-09-19,United States,New York,New York,email,returning
+C01355,2023-11-04,United States,Illinois,Chicago,email,new
+C01356,2025-05-13,Australia,New South Wales,Sydney,referral,returning
+C01357,2024-08-10,United Kingdom,Scotland,Edinburgh,organic,new
+C01358,2024-04-04,Canada,Ontario,Toronto,social,new
+C01359,2022-11-27,United Kingdom,Scotland,Edinburgh,email,vip
+C01360,2024-07-01,Australia,New South Wales,Sydney,marketplace,new
+C01361,2025-03-16,United States,Texas,Austin,paid_search,returning
+C01362,2023-12-06,United States,Illinois,Chicago,social,returning
+C01363,2023-07-22,Canada,Quebec,Montreal,organic,new
+C01364,2023-12-11,France,Ile-de-France,Paris,paid_search,returning
+C01365,2023-06-23,Germany,Berlin,Berlin,paid_search,new
+C01366,2025-01-10,Australia,New South Wales,Sydney,email,returning
+C01367,2023-11-18,United Kingdom,Scotland,Edinburgh,organic,new
+C01368,2024-08-10,Australia,New South Wales,Sydney,organic,returning
+C01369,2025-10-06,United States,New York,New York,paid_search,returning
+C01370,2025-10-22,United States,Washington,Seattle,paid_search,new
+C01371,2025-04-08,United States,Texas,Austin,organic,new
+C01372,2024-12-09,United Kingdom,England,London,email,new
+C01373,2024-01-10,Germany,Berlin,Berlin,paid_search,new
+C01374,2023-08-15,Germany,Berlin,Berlin,email,new
+C01375,2024-06-18,France,Ile-de-France,Paris,social,new
+C01376,2024-03-31,United Kingdom,England,London,organic,returning
+C01377,2025-07-27,United States,Washington,Seattle,organic,new
+C01378,2025-02-24,Germany,Berlin,Berlin,paid_search,new
+C01379,2024-12-29,Australia,New South Wales,Sydney,referral,new
+C01380,2024-03-13,Canada,Ontario,Toronto,organic,vip
+C01381,2023-06-09,Australia,Victoria,Melbourne,email,new
+C01382,2025-01-17,Australia,Victoria,Melbourne,social,new
+C01383,2024-09-11,Australia,Victoria,Melbourne,marketplace,new
+C01384,2025-10-28,Germany,Berlin,Berlin,paid_search,new
+C01385,2023-12-15,Canada,Ontario,Toronto,organic,returning
+C01386,2025-01-20,United States,California,Los Angeles,paid_search,returning
+C01387,2024-10-13,United States,New York,New York,social,new
+C01388,2025-10-12,Australia,Victoria,Melbourne,social,new
+C01389,2025-01-27,Germany,Berlin,Berlin,paid_search,new
+C01390,2022-08-22,United Kingdom,Scotland,Edinburgh,social,new
+C01391,2025-02-09,United States,Illinois,Chicago,organic,returning
+C01392,2023-12-08,United States,Texas,Austin,paid_search,new
+C01393,2024-05-04,Australia,New South Wales,Sydney,paid_search,vip
+C01394,2023-12-17,United Kingdom,England,London,organic,new
+C01395,2024-05-10,United States,New York,New York,organic,returning
+C01396,2025-07-16,United Kingdom,Scotland,Edinburgh,organic,new
+C01397,2023-05-17,United States,New York,New York,social,new
+C01398,2022-03-25,Australia,New South Wales,Sydney,organic,new
+C01399,2022-02-26,France,Ile-de-France,Paris,paid_search,new
+C01400,2022-06-10,Canada,Ontario,Toronto,email,returning
+C01401,2025-07-09,United States,California,Los Angeles,email,vip
+C01402,2023-12-05,United States,New York,New York,paid_search,new
+C01403,2023-07-13,Canada,Ontario,Toronto,paid_search,new
+C01404,2024-10-05,United States,New York,New York,social,new
+C01405,2025-08-27,Australia,Victoria,Melbourne,organic,new
+C01406,2023-11-16,United Kingdom,England,London,paid_search,new
+C01407,2025-02-06,Canada,Ontario,Toronto,paid_search,new
+C01408,2022-05-30,Australia,Victoria,Melbourne,organic,vip
+C01409,2022-10-10,Australia,New South Wales,Sydney,organic,returning
+C01410,2022-10-05,United States,Washington,Seattle,paid_search,new
+C01411,2023-12-21,Canada,Ontario,Toronto,email,new
+C01412,2025-11-02,United States,Washington,Seattle,referral,returning
+C01413,2024-10-26,Canada,Quebec,Montreal,organic,returning
+C01414,2022-08-02,United Kingdom,Scotland,Edinburgh,social,returning
+C01415,2023-06-07,United States,Washington,Seattle,organic,returning
+C01416,2022-03-22,United Kingdom,England,London,organic,new
+C01417,2025-04-16,United Kingdom,England,London,organic,new
+C01418,2022-09-28,United States,Washington,Seattle,marketplace,returning
+C01419,2024-10-14,United States,Texas,Austin,email,returning
+C01420,2023-08-14,United Kingdom,Scotland,Edinburgh,social,returning
+C01421,2025-11-20,United Kingdom,Scotland,Edinburgh,paid_search,new
+C01422,2022-07-30,United Kingdom,England,London,organic,returning
+C01423,2023-06-28,France,Ile-de-France,Paris,marketplace,new
+C01424,2023-11-17,Australia,Victoria,Melbourne,organic,new
+C01425,2024-12-29,United Kingdom,Scotland,Edinburgh,referral,new
+C01426,2023-07-15,United States,Illinois,Chicago,social,new
+C01427,2022-01-28,United States,Washington,Seattle,paid_search,vip
+C01428,2023-05-14,France,Ile-de-France,Paris,organic,new
+C01429,2024-06-16,United Kingdom,Scotland,Edinburgh,referral,returning
+C01430,2024-03-04,Germany,Berlin,Berlin,marketplace,returning
+C01431,2024-03-09,Australia,Victoria,Melbourne,paid_search,returning
+C01432,2025-04-17,Germany,Berlin,Berlin,referral,new
+C01433,2022-07-29,Australia,New South Wales,Sydney,email,new
+C01434,2023-08-08,United States,California,Los Angeles,paid_search,new
+C01435,2023-11-22,United States,Washington,Seattle,email,new
+C01436,2025-06-13,United Kingdom,Scotland,Edinburgh,social,returning
+C01437,2025-11-20,United States,California,Los Angeles,referral,new
+C01438,2024-01-19,United Kingdom,Scotland,Edinburgh,organic,returning
+C01439,2023-12-30,Australia,Victoria,Melbourne,marketplace,returning
+C01440,2025-11-15,Canada,Ontario,Toronto,marketplace,new
+C01441,2022-12-08,United States,Texas,Austin,marketplace,returning
+C01442,2022-10-02,Germany,Berlin,Berlin,organic,vip
+C01443,2023-09-11,United States,Texas,Austin,organic,returning
+C01444,2023-12-06,United States,Washington,Seattle,paid_search,new
+C01445,2025-09-22,United States,Texas,Austin,paid_search,new
+C01446,2025-11-24,United States,California,Los Angeles,social,new
+C01447,2024-12-25,United States,Texas,Austin,email,returning
+C01448,2025-02-12,United Kingdom,Scotland,Edinburgh,organic,returning
+C01449,2022-04-25,United States,California,Los Angeles,referral,vip
+C01450,2025-06-08,United States,Washington,Seattle,email,vip
+C01451,2022-05-24,Canada,Quebec,Montreal,referral,new
+C01452,2023-10-23,Germany,Berlin,Berlin,organic,new
+C01453,2024-02-06,United States,California,Los Angeles,referral,new
+C01454,2024-04-30,Australia,Victoria,Melbourne,social,returning
+C01455,2025-02-08,Canada,Ontario,Toronto,email,vip
+C01456,2025-01-21,Canada,Ontario,Toronto,email,returning
+C01457,2022-03-01,Germany,Berlin,Berlin,organic,returning
+C01458,2024-11-18,United States,New York,New York,email,returning
+C01459,2024-03-02,United States,California,Los Angeles,organic,new
+C01460,2024-12-09,Canada,Quebec,Montreal,organic,new
+C01461,2023-06-18,United Kingdom,Scotland,Edinburgh,organic,returning
+C01462,2025-10-14,France,Ile-de-France,Paris,social,new
+C01463,2023-03-12,France,Ile-de-France,Paris,organic,new
+C01464,2024-03-05,United States,Washington,Seattle,social,new
+C01465,2024-12-18,United Kingdom,England,London,marketplace,returning
+C01466,2022-07-17,United Kingdom,Scotland,Edinburgh,social,returning
+C01467,2023-12-23,Australia,New South Wales,Sydney,organic,returning
+C01468,2024-03-15,United Kingdom,Scotland,Edinburgh,organic,new
+C01469,2024-02-10,Canada,Ontario,Toronto,organic,new
+C01470,2025-01-17,France,Ile-de-France,Paris,organic,new
+C01471,2022-06-01,Germany,Berlin,Berlin,paid_search,returning
+C01472,2025-05-09,Canada,Quebec,Montreal,organic,new
+C01473,2023-07-28,Canada,Ontario,Toronto,organic,new
+C01474,2023-07-30,United States,Illinois,Chicago,referral,returning
+C01475,2022-03-16,Germany,Berlin,Berlin,organic,returning
+C01476,2023-02-27,Germany,Berlin,Berlin,organic,returning
+C01477,2022-04-12,United Kingdom,England,London,organic,returning
+C01478,2023-06-17,United States,Illinois,Chicago,paid_search,returning
+C01479,2023-03-12,Canada,Ontario,Toronto,organic,new
+C01480,2024-05-18,United States,New York,New York,email,new
+C01481,2022-11-26,Australia,Victoria,Melbourne,organic,new
+C01482,2024-05-31,Germany,Berlin,Berlin,referral,new
+C01483,2024-09-10,Australia,Victoria,Melbourne,organic,returning
+C01484,2024-07-05,United States,California,Los Angeles,social,vip
+C01485,2023-06-13,United States,Illinois,Chicago,paid_search,new
+C01486,2024-01-17,Germany,Berlin,Berlin,social,vip
+C01487,2024-05-15,United States,Texas,Austin,social,new
+C01488,2024-09-01,United Kingdom,Scotland,Edinburgh,organic,returning
+C01489,2023-09-20,Australia,New South Wales,Sydney,marketplace,new
+C01490,2023-09-27,United Kingdom,Scotland,Edinburgh,marketplace,vip
+C01491,2025-02-17,Australia,New South Wales,Sydney,paid_search,new
+C01492,2022-08-02,Australia,Victoria,Melbourne,referral,new
+C01493,2024-08-03,United States,Washington,Seattle,marketplace,returning
+C01494,2024-01-14,Australia,Victoria,Melbourne,organic,vip
+C01495,2022-05-07,United States,California,Los Angeles,email,new
+C01496,2023-09-25,United States,Texas,Austin,email,new
+C01497,2025-11-18,Canada,Quebec,Montreal,social,returning
+C01498,2023-03-08,United States,Illinois,Chicago,social,returning
+C01499,2023-02-07,United States,Texas,Austin,organic,new
+C01500,2022-09-25,United States,Illinois,Chicago,organic,new

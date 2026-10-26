@@ -1,0 +1,81 @@
+product_id,product_name,category,subcategory,unit_cost,list_price,launch_date
+P0001,Classic Organizer 01,Home & Kitchen,Lighting,62.40,142.61,2023-12-17
+P0002,Everyday Pan 02,Home & Kitchen,Storage,39.18,94.29,2022-11-29
+P0003,Everyday Bottle 03,Home & Kitchen,Storage,42.33,87.97,2022-06-09
+P0004,Classic Organizer 04,Home & Kitchen,Cookware,33.18,79.90,2023-05-29
+P0005,Essential Lamp 05,Home & Kitchen,Lighting,45.54,124.02,2023-05-22
+P0006,Modern Pan 06,Home & Kitchen,Storage,7.36,17.39,2024-02-13
+P0007,Essential Bottle 07,Home & Kitchen,Drinkware,83.33,228.49,2023-09-17
+P0008,Modern Bottle 08,Home & Kitchen,Cookware,9.14,17.50,2022-06-23
+P0009,Classic Bottle 09,Home & Kitchen,Cookware,57.54,150.64,2023-06-05
+P0010,Premium Pan 10,Home & Kitchen,Drinkware,50.32,92.45,2022-10-02
+P0011,Essential Bottle 11,Home & Kitchen,Cookware,9.30,22.14,2024-08-22
+P0012,Modern Bottle 12,Home & Kitchen,Storage,74.54,145.47,2024-05-24
+P0013,Compact Organizer 13,Home & Kitchen,Drinkware,82.34,152.09,2022-09-03
+P0014,Essential Organizer 14,Home & Kitchen,Cookware,11.80,20.21,2023-12-08
+P0015,Compact Keyboard 15,Electronics,Computing,54.79,129.83,2023-10-27
+P0016,Classic Speaker 16,Electronics,Smart Home,14.21,25.57,2023-07-31
+P0017,Essential Headphones 17,Electronics,Smart Home,51.66,104.26,2023-08-15
+P0018,Modern Headphones 18,Electronics,Computing,24.91,53.55,2022-09-23
+P0019,Essential Speaker 19,Electronics,Smart Home,31.30,77.11,2024-02-13
+P0020,Everyday Charger 20,Electronics,Audio,77.73,179.40,2025-04-26
+P0021,Modern Headphones 21,Electronics,Computing,29.47,70.04,2024-05-27
+P0022,Modern Headphones 22,Electronics,Audio,74.30,155.19,2022-03-06
+P0023,Everyday Charger 23,Electronics,Smart Home,4.98,13.72,2025-03-07
+P0024,Modern Keyboard 24,Electronics,Accessories,87.19,140.64,2024-03-13
+P0025,Compact Headphones 25,Electronics,Audio,82.60,140.13,2023-08-14
+P0026,Everyday Speaker 26,Electronics,Audio,63.03,168.85,2023-01-22
+P0027,Modern Charger 27,Electronics,Computing,65.35,127.83,2023-02-16
+P0028,Classic Headphones 28,Electronics,Audio,38.29,78.30,2023-07-06
+P0029,Classic Trousers 29,Clothing,Outerwear,15.82,29.70,2024-09-13
+P0030,Compact Leggings 30,Clothing,Outerwear,5.51,10.01,2023-08-23
+P0031,Classic Trousers 31,Clothing,Bottoms,10.26,26.35,2022-07-26
+P0032,Everyday Trousers 32,Clothing,Bottoms,64.75,103.29,2023-01-14
+P0033,Premium T-Shirt 33,Clothing,Activewear,63.76,142.82,2022-04-02
+P0034,Modern Jacket 34,Clothing,Outerwear,7.60,18.59,2023-01-27
+P0035,Premium Leggings 35,Clothing,Tops,26.32,40.94,2025-06-20
+P0036,Compact T-Shirt 36,Clothing,Activewear,50.98,82.66,2024-09-15
+P0037,Premium Leggings 37,Clothing,Tops,6.03,9.66,2024-04-21
+P0038,Classic Trousers 38,Clothing,Tops,69.55,183.98,2023-10-06
+P0039,Modern Trousers 39,Clothing,Outerwear,25.07,39.01,2024-03-10
+P0040,Compact Trousers 40,Clothing,Activewear,57.23,128.54,2024-05-13
+P0041,Premium Jacket 41,Clothing,Tops,56.63,142.61,2024-09-04
+P0042,Everyday Trousers 42,Clothing,Bottoms,22.32,43.48,2023-12-26
+P0043,Modern Perfume 43,Beauty,Makeup,88.65,142.39,2023-08-15
+P0044,Classic Perfume 44,Beauty,Haircare,48.99,122.83,2022-09-10
+P0045,Essential Serum 45,Beauty,Makeup,76.88,191.34,2022-02-04
+P0046,Essential Perfume 46,Beauty,Haircare,55.18,104.79,2024-02-22
+P0047,Compact Palette 47,Beauty,Fragrance,67.94,137.90,2023-04-07
+P0048,Compact Perfume 48,Beauty,Makeup,77.17,181.16,2024-05-29
+P0049,Modern Shampoo 49,Beauty,Makeup,72.11,129.20,2022-10-22
+P0050,Premium Perfume 50,Beauty,Skincare,31.18,55.18,2022-05-02
+P0051,Everyday Palette 51,Beauty,Haircare,6.07,13.85,2025-03-13
+P0052,Classic Shampoo 52,Beauty,Fragrance,73.62,117.62,2024-03-08
+P0053,Premium Palette 53,Beauty,Makeup,7.65,14.12,2023-07-10
+P0054,Modern Perfume 54,Beauty,Makeup,52.97,102.31,2022-12-17
+P0055,Compact Serum 55,Beauty,Fragrance,76.24,132.92,2022-03-01
+P0056,Classic Serum 56,Beauty,Fragrance,4.28,7.48,2025-04-20
+P0057,Everyday Dumbbell 57,Sports,Outdoor,12.00,32.50,2025-03-23
+P0058,Compact Backpack 58,Sports,Yoga,53.61,119.87,2022-02-11
+P0059,Everyday Dumbbell 59,Sports,Yoga,82.14,155.66,2024-08-29
+P0060,Modern Bottle 60,Sports,Outdoor,51.62,141.04,2022-05-11
+P0061,Everyday Mat 61,Sports,Outdoor,19.51,46.09,2023-11-29
+P0062,Essential Bottle 62,Sports,Cycling,13.34,22.69,2022-12-09
+P0063,Everyday Bottle 63,Sports,Yoga,11.76,20.76,2024-01-23
+P0064,Premium Mat 64,Sports,Yoga,79.88,133.19,2024-12-21
+P0065,Classic Backpack 65,Sports,Fitness,35.46,82.44,2024-08-30
+P0066,Premium Backpack 66,Sports,Fitness,59.93,154.82,2023-03-13
+P0067,Compact Mat 67,Sports,Yoga,45.27,93.05,2022-07-05
+P0068,Premium Dumbbell 68,Sports,Cycling,56.42,109.60,2024-03-27
+P0069,Modern Backpack 69,Sports,Cycling,51.93,89.36,2024-05-26
+P0070,Essential Mat 70,Sports,Fitness,69.17,187.85,2023-05-19
+P0071,Compact T-Shirt 71,Clothing,Outerwear,18.63,41.19,2023-05-29
+P0072,Classic Perfume 72,Beauty,Haircare,39.51,105.47,2023-10-07
+P0073,Modern Keyboard 73,Electronics,Audio,84.98,141.60,2025-05-18
+P0074,Compact Keyboard 74,Electronics,Audio,52.59,103.88,2022-01-22
+P0075,Everyday Mat 75,Sports,Outdoor,75.65,143.70,2022-12-13
+P0076,Everyday Shampoo 76,Beauty,Skincare,12.87,35.98,2024-12-14
+P0077,Everyday Bottle 77,Sports,Cycling,58.20,117.68,2022-12-14
+P0078,Premium Storybook 78,Books,Children,64.33,164.44,2024-04-17
+P0079,Everyday Mat 79,Sports,Outdoor,89.39,140.21,2023-04-09
+P0080,Compact Mat 80,Sports,Yoga,68.73,187.52,2023-04-05

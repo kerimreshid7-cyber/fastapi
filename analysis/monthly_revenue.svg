@@ -1,0 +1,151 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="300" viewBox="0 0 700 300">
+<style>text{font-family:Arial,sans-serif;fill:#1f2937}.label{font-size:12px}.title{font-size:18px;font-weight:bold}</style>
+<text x="350.0" y="24" text-anchor="middle" class="title">Monthly Revenue Trend</text>
+<line x1="70" y1="220" x2="630" y2="220" stroke="#374151" stroke-width="1"/>
+<line x1="70" y1="40" x2="70" y2="220" stroke="#374151" stroke-width="1"/>
+<polyline fill="none" stroke="#ef4444" stroke-width="3" points="70.0,217.7 86.0,220.0 102.0,206.3 118.0,191.3 134.0,174.8 150.0,195.1 166.0,180.5 182.0,195.3 198.0,185.2 214.0,166.0 230.0,69.7 246.0,82.8 262.0,205.9 278.0,205.4 294.0,191.6 310.0,182.7 326.0,186.6 342.0,193.8 358.0,190.0 374.0,171.6 390.0,165.5 406.0,167.0 422.0,89.2 438.0,76.8 454.0,204.1 470.0,212.7 486.0,193.1 502.0,174.8 518.0,177.7 534.0,187.0 550.0,166.7 566.0,181.4 582.0,172.4 598.0,149.9 614.0,67.4 630.0,60.0"/>
+<line x1="70.0" y1="220" x2="70.0" y2="226" stroke="#374151" stroke-width="1"/>
+<text x="70.0" y="240" text-anchor="middle" class="label">01</text>
+<line x1="86.0" y1="220" x2="86.0" y2="226" stroke="#374151" stroke-width="1"/>
+<text x="86.0" y="240" text-anchor="middle" class="label">02</text>
+<line x1="102.0" y1="220" x2="102.0" y2="226" stroke="#374151" stroke-width="1"/>
+<text x="102.0" y="240" text-anchor="middle" class="label">03</text>
+<line x1="118.0" y1="220" x2="118.0" y2="226" stroke="#374151" stroke-width="1"/>
+<text x="118.0" y="240" text-anchor="middle" class="label">04</text>
+<line x1="134.0" y1="220" x2="134.0" y2="226" stroke="#374151" stroke-width="1"/>
+<text x="134.0" y="240" text-anchor="middle" class="label">05</text>
+<line x1="150.0" y1="220" x2="150.0" y2="226" stroke="#374151" stroke-width="1"/>
+<text x="150.0" y="240" text-anchor="middle" class="label">06</text>
+<line x1="166.0" y1="220" x2="166.0" y2="226" stroke="#374151" stroke-width="1"/>
+<text x="166.0" y="240" text-anchor="middle" class="label">07</text>
+<line x1="182.0" y1="220" x2="182.0" y2="226" stroke="#374151" stroke-width="1"/>
+<text x="182.0" y="240" text-anchor="middle" class="label">08</text>
+<line x1="198.0" y1="220" x2="198.0" y2="226" stroke="#374151" stroke-width="1"/>
+<text x="198.0" y="240" text-anchor="middle" class="label">09</text>
+<line x1="214.0" y1="220" x2="214.0" y2="226" stroke="#374151" stroke-width="1"/>
+<text x="214.0" y="240" text-anchor="middle" class="label">10</text>
+<line x1="230.0" y1="220" x2="230.0" y2="226" stroke="#374151" stroke-width="1"/>
+<text x="230.0" y="240" text-anchor="middle" class="label">11</text>
+<line x1="246.0" y1="220" x2="246.0" y2="226" stroke="#374151" stroke-width="1"/>
+<text x="246.0" y="240" text-anchor="middle" class="label">12</text>
+<line x1="262.0" y1="220" x2="262.0" y2="226" stroke="#374151" stroke-width="1"/>
+<text x="262.0" y="240" text-anchor="middle" class="label">01</text>
+<line x1="278.0" y1="220" x2="278.0" y2="226" stroke="#374151" stroke-width="1"/>
+<text x="278.0" y="240" text-anchor="middle" class="label">02</text>
+<line x1="294.0" y1="220" x2="294.0" y2="226" stroke="#374151" stroke-width="1"/>
+<text x="294.0" y="240" text-anchor="middle" class="label">03</text>
+<line x1="310.0" y1="220" x2="310.0" y2="226" stroke="#374151" stroke-width="1"/>
+<text x="310.0" y="240" text-anchor="middle" class="label">04</text>
+<line x1="326.0" y1="220" x2="326.0" y2="226" stroke="#374151" stroke-width="1"/>
+<text x="326.0" y="240" text-anchor="middle" class="label">05</text>
+<line x1="342.0" y1="220" x2="342.0" y2="226" stroke="#374151" stroke-width="1"/>
+<text x="342.0" y="240" text-anchor="middle" class="label">06</text>
+<line x1="358.0" y1="220" x2="358.0" y2="226" stroke="#374151" stroke-width="1"/>
+<text x="358.0" y="240" text-anchor="middle" class="label">07</text>
+<line x1="374.0" y1="220" x2="374.0" y2="226" stroke="#374151" stroke-width="1"/>
+<text x="374.0" y="240" text-anchor="middle" class="label">08</text>
+<line x1="390.0" y1="220" x2="390.0" y2="226" stroke="#374151" stroke-width="1"/>
+<text x="390.0" y="240" text-anchor="middle" class="label">09</text>
+<line x1="406.0" y1="220" x2="406.0" y2="226" stroke="#374151" stroke-width="1"/>
+<text x="406.0" y="240" text-anchor="middle" class="label">10</text>
+<line x1="422.0" y1="220" x2="422.0" y2="226" stroke="#374151" stroke-width="1"/>
+<text x="422.0" y="240" text-anchor="middle" class="label">11</text>
+<line x1="438.0" y1="220" x2="438.0" y2="226" stroke="#374151" stroke-width="1"/>
+<text x="438.0" y="240" text-anchor="middle" class="label">12</text>
+<line x1="454.0" y1="220" x2="454.0" y2="226" stroke="#374151" stroke-width="1"/>
+<text x="454.0" y="240" text-anchor="middle" class="label">01</text>
+<line x1="470.0" y1="220" x2="470.0" y2="226" stroke="#374151" stroke-width="1"/>
+<text x="470.0" y="240" text-anchor="middle" class="label">02</text>
+<line x1="486.0" y1="220" x2="486.0" y2="226" stroke="#374151" stroke-width="1"/>
+<text x="486.0" y="240" text-anchor="middle" class="label">03</text>
+<line x1="502.0" y1="220" x2="502.0" y2="226" stroke="#374151" stroke-width="1"/>
+<text x="502.0" y="240" text-anchor="middle" class="label">04</text>
+<line x1="518.0" y1="220" x2="518.0" y2="226" stroke="#374151" stroke-width="1"/>
+<text x="518.0" y="240" text-anchor="middle" class="label">05</text>
+<line x1="534.0" y1="220" x2="534.0" y2="226" stroke="#374151" stroke-width="1"/>
+<text x="534.0" y="240" text-anchor="middle" class="label">06</text>
+<line x1="550.0" y1="220" x2="550.0" y2="226" stroke="#374151" stroke-width="1"/>
+<text x="550.0" y="240" text-anchor="middle" class="label">07</text>
+<line x1="566.0" y1="220" x2="566.0" y2="226" stroke="#374151" stroke-width="1"/>
+<text x="566.0" y="240" text-anchor="middle" class="label">08</text>
+<line x1="582.0" y1="220" x2="582.0" y2="226" stroke="#374151" stroke-width="1"/>
+<text x="582.0" y="240" text-anchor="middle" class="label">09</text>
+<line x1="598.0" y1="220" x2="598.0" y2="226" stroke="#374151" stroke-width="1"/>
+<text x="598.0" y="240" text-anchor="middle" class="label">10</text>
+<line x1="614.0" y1="220" x2="614.0" y2="226" stroke="#374151" stroke-width="1"/>
+<text x="614.0" y="240" text-anchor="middle" class="label">11</text>
+<line x1="630.0" y1="220" x2="630.0" y2="226" stroke="#374151" stroke-width="1"/>
+<text x="630.0" y="240" text-anchor="middle" class="label">12</text>
+<circle cx="70.0" cy="217.66984951566783" r="4" fill="#ef4444"/>
+<text x="70.0" y="209.66984951566783" text-anchor="middle" class="label">$32,201.30</text>
+<circle cx="86.0" cy="220.0" r="4" fill="#ef4444"/>
+<text x="86.0" y="212.0" text-anchor="middle" class="label">$31,231.09</text>
+<circle cx="102.0" cy="206.3096303848301" r="4" fill="#ef4444"/>
+<text x="102.0" y="198.3096303848301" text-anchor="middle" class="label">$36,931.38</text>
+<circle cx="118.0" cy="191.3086066614674" r="4" fill="#ef4444"/>
+<text x="118.0" y="183.3086066614674" text-anchor="middle" class="label">$43,177.39</text>
+<circle cx="134.0" cy="174.82770525653493" r="4" fill="#ef4444"/>
+<text x="134.0" y="166.82770525653493" text-anchor="middle" class="label">$50,039.58</text>
+<circle cx="150.0" cy="195.13011493921638" r="4" fill="#ef4444"/>
+<text x="150.0" y="187.13011493921638" text-anchor="middle" class="label">$41,586.22</text>
+<circle cx="166.0" cy="180.45130289062308" r="4" fill="#ef4444"/>
+<text x="166.0" y="172.45130289062308" text-anchor="middle" class="label">$47,698.07</text>
+<circle cx="182.0" cy="195.27003780871598" r="4" fill="#ef4444"/>
+<text x="182.0" y="187.27003780871598" text-anchor="middle" class="label">$41,527.96</text>
+<circle cx="198.0" cy="185.21302752524986" r="4" fill="#ef4444"/>
+<text x="198.0" y="177.21302752524986" text-anchor="middle" class="label">$45,715.42</text>
+<circle cx="214.0" cy="165.9879711003803" r="4" fill="#ef4444"/>
+<text x="214.0" y="157.9879711003803" text-anchor="middle" class="label">$53,720.20</text>
+<circle cx="230.0" cy="69.68157700231203" r="4" fill="#ef4444"/>
+<text x="230.0" y="61.681577002312025" text-anchor="middle" class="label">$93,819.51</text>
+<circle cx="246.0" cy="82.76842416851949" r="4" fill="#ef4444"/>
+<text x="246.0" y="74.76842416851949" text-anchor="middle" class="label">$88,370.51</text>
+<circle cx="262.0" cy="205.9165206134657" r="4" fill="#ef4444"/>
+<text x="262.0" y="197.9165206134657" text-anchor="middle" class="label">$37,095.06</text>
+<circle cx="278.0" cy="205.35502786268805" r="4" fill="#ef4444"/>
+<text x="278.0" y="197.35502786268805" text-anchor="middle" class="label">$37,328.85</text>
+<circle cx="294.0" cy="191.55264309761324" r="4" fill="#ef4444"/>
+<text x="294.0" y="183.55264309761324" text-anchor="middle" class="label">$43,075.78</text>
+<circle cx="310.0" cy="182.65687734953585" r="4" fill="#ef4444"/>
+<text x="310.0" y="174.65687734953585" text-anchor="middle" class="label">$46,779.73</text>
+<circle cx="326.0" cy="186.56955404689" r="4" fill="#ef4444"/>
+<text x="326.0" y="178.56955404689" text-anchor="middle" class="label">$45,150.60</text>
+<circle cx="342.0" cy="193.84379002203" r="4" fill="#ef4444"/>
+<text x="342.0" y="185.84379002203" text-anchor="middle" class="label">$42,121.81</text>
+<circle cx="358.0" cy="189.96778723846316" r="4" fill="#ef4444"/>
+<text x="358.0" y="181.96778723846316" text-anchor="middle" class="label">$43,735.67</text>
+<circle cx="374.0" cy="171.56884254414243" r="4" fill="#ef4444"/>
+<text x="374.0" y="163.56884254414243" text-anchor="middle" class="label">$51,396.48</text>
+<circle cx="390.0" cy="165.5379891431295" r="4" fill="#ef4444"/>
+<text x="390.0" y="157.5379891431295" text-anchor="middle" class="label">$53,907.56</text>
+<circle cx="406.0" cy="166.98810979838436" r="4" fill="#ef4444"/>
+<text x="406.0" y="158.98810979838436" text-anchor="middle" class="label">$53,303.77</text>
+<circle cx="422.0" cy="89.16916293052873" r="4" fill="#ef4444"/>
+<text x="422.0" y="81.16916293052873" text-anchor="middle" class="label">$85,705.42</text>
+<circle cx="438.0" cy="76.7679042011105" r="4" fill="#ef4444"/>
+<text x="438.0" y="68.7679042011105" text-anchor="middle" class="label">$90,868.96</text>
+<circle cx="454.0" cy="204.0779734960726" r="4" fill="#ef4444"/>
+<text x="454.0" y="196.0779734960726" text-anchor="middle" class="label">$37,860.58</text>
+<circle cx="470.0" cy="212.7393576301016" r="4" fill="#ef4444"/>
+<text x="470.0" y="204.7393576301016" text-anchor="middle" class="label">$34,254.22</text>
+<circle cx="486.0" cy="193.05154221973294" r="4" fill="#ef4444"/>
+<text x="486.0" y="185.05154221973294" text-anchor="middle" class="label">$42,451.68</text>
+<circle cx="502.0" cy="174.75524605686442" r="4" fill="#ef4444"/>
+<text x="502.0" y="166.75524605686442" text-anchor="middle" class="label">$50,069.75</text>
+<circle cx="518.0" cy="177.6598104220449" r="4" fill="#ef4444"/>
+<text x="518.0" y="169.6598104220449" text-anchor="middle" class="label">$48,860.37</text>
+<circle cx="534.0" cy="187.04081503990773" r="4" fill="#ef4444"/>
+<text x="534.0" y="179.04081503990773" text-anchor="middle" class="label">$44,954.38</text>
+<circle cx="550.0" cy="166.66616231028934" r="4" fill="#ef4444"/>
+<text x="550.0" y="158.66616231028934" text-anchor="middle" class="label">$53,437.82</text>
+<circle cx="566.0" cy="181.41969115376986" r="4" fill="#ef4444"/>
+<text x="566.0" y="173.41969115376986" text-anchor="middle" class="label">$47,294.86</text>
+<circle cx="582.0" cy="172.36980850669147" r="4" fill="#ef4444"/>
+<text x="582.0" y="164.36980850669147" text-anchor="middle" class="label">$51,062.98</text>
+<circle cx="598.0" cy="149.90507892877218" r="4" fill="#ef4444"/>
+<text x="598.0" y="141.90507892877218" text-anchor="middle" class="label">$60,416.67</text>
+<circle cx="614.0" cy="67.40702580443562" r="4" fill="#ef4444"/>
+<text x="614.0" y="59.40702580443562" text-anchor="middle" class="label">$94,766.57</text>
+<circle cx="630.0" cy="60.000000000002416" r="4" fill="#ef4444"/>
+<text x="630.0" y="52.000000000002416" text-anchor="middle" class="label">$97,850.65</text>
+</svg>

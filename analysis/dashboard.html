@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Commerce Dashboard</title>
+  <style>
+    body { font-family: Arial, sans-serif; background: #f4f6fb; color: #1f2937; margin: 0; padding: 30px; }
+    .wrap { max-width: 1200px; margin: 0 auto; }
+    h1 { margin-bottom: 12px; }
+    .cards { display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: 18px; margin: 24px 0 28px; }
+    .card { background: white; border-radius: 14px; padding: 18px; box-shadow: 0 3px 18px rgba(31,41,55,0.08); }
+    .card .label { color: #6b7280; font-size: 12px; text-transform: uppercase; letter-spacing: .05em; }
+    .card .value { font-size: 28px; font-weight: 700; margin-top: 8px; }
+    .grid { display: grid; grid-template-columns: 1.3fr 1fr; gap: 20px; }
+    .panel { background: white; border-radius: 14px; padding: 12px 16px 18px; box-shadow: 0 3px 18px rgba(31,41,55,0.08); }
+    .panel h2 { margin: 10px 0 12px; font-size: 20px; }
+    .panel img { width: 100%; height: auto; display: block; border-radius: 10px; }
+    .insights { margin-top: 26px; background: white; border-radius: 14px; padding: 18px 20px; box-shadow: 0 3px 18px rgba(31,41,55,0.08); }
+    ul { margin: 0; padding-left: 18px; line-height: 1.7; }
+    @media (max-width: 900px) { .grid { grid-template-columns: 1fr; } }
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <h1>Commerce Analysis Dashboard</h1>
+    <div class="cards">
+      <div class="card">
+        <div class="label">Revenue</div>
+        <div class="value">$1.90M</div>
+      </div>
+      <div class="card">
+        <div class="label">Avg Order</div>
+        <div class="value">$221.60</div>
+      </div>
+      <div class="card">
+        <div class="label">Margin</div>
+        <div class="value">39.6%</div>
+      </div>
+      <div class="card">
+        <div class="label">Return Rate</div>
+        <div class="value">5.4%</div>
+      </div>
+      <div class="card">
+        <div class="label">Repeat Buyers</div>
+        <div class="value">55.7%</div>
+      </div>
+    </div>
+
+    <div class="grid">
+      <div class="panel">
+        <h2>Monthly Revenue Trend</h2>
+        <img src="monthly_revenue.svg" alt="Monthly revenue trend" />
+      </div>
+      <div class="panel">
+        <h2>Revenue by Country</h2>
+        <img src="country_revenue.svg" alt="Revenue by country" />
+      </div>
+    </div>
+
+    <div class="grid" style="margin-top: 20px;">
+      <div class="panel">
+        <h2>Category Revenue</h2>
+        <img src="category_revenue.svg" alt="Revenue by category" />
+      </div>
+      <div class="panel">
+        <h2>Channel Revenue</h2>
+        <img src="channel_revenue.svg" alt="Revenue by acquisition channel" />
+      </div>
+    </div>
+
+    <div class="insights">
+      <h2>Strategic takeaway</h2>
+      <ul>
+        <li>United States is the largest revenue market at $742,407.16, making it the first growth priority.</li>
+        <li>Organic acquisition is the strongest channel at $506,545.85, suggesting a high ROI from discovery and SEO-led demand.</li>
+        <li>Sports is the top category, with $415,816.24 in revenue and a healthy 2.8% return rate—an ideal growth lane.</li>
+        <li>Clothing generates acceptable revenue but has a much higher return rate (12.4%), so discounting and product-fit improvements should be managed carefully.</li>
+        <li>Peak demand appears in late-year holiday months, which supports a stronger Q4 inventory and promotion plan.</li>
+      </ul>
+    </div>
+  </div>
+</body>
+</html>
